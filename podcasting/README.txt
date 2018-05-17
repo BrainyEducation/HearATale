@@ -1,0 +1,1 @@
+NOTE: For development purposes, media files are gitignored

@@ -1,0 +1,1004 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi31507\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}
+{\f1\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}{\f34\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria Math;}
+{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}
+{\fhimajor\f31502\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}
+{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}
+{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}
+{\f332\fbidi \froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}{\f333\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}
+{\f335\fbidi \froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}{\f336\fbidi \froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}
+{\f337\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}{\f338\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}
+{\f339\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}{\f340\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}{\f342\fbidi \fswiss\fcharset238\fprq2 Arial CE;}
+{\f343\fbidi \fswiss\fcharset204\fprq2 Arial Cyr;}{\f345\fbidi \fswiss\fcharset161\fprq2 Arial Greek;}{\f346\fbidi \fswiss\fcharset162\fprq2 Arial Tur;}{\f347\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}
+{\f348\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\f349\fbidi \fswiss\fcharset186\fprq2 Arial Baltic;}{\f350\fbidi \fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f672\fbidi \froman\fcharset238\fprq2 Cambria Math CE;}
+{\f673\fbidi \froman\fcharset204\fprq2 Cambria Math Cyr;}{\f675\fbidi \froman\fcharset161\fprq2 Cambria Math Greek;}{\f676\fbidi \froman\fcharset162\fprq2 Cambria Math Tur;}{\f679\fbidi \froman\fcharset186\fprq2 Cambria Math Baltic;}
+{\f680\fbidi \froman\fcharset163\fprq2 Cambria Math (Vietnamese);}{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}
+{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}
+{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}
+{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}
+{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}
+{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}
+{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}
+{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}
+{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}{\fhimajor\f31528\fbidi \froman\fcharset238\fprq2 Cambria CE;}{\fhimajor\f31529\fbidi \froman\fcharset204\fprq2 Cambria Cyr;}
+{\fhimajor\f31531\fbidi \froman\fcharset161\fprq2 Cambria Greek;}{\fhimajor\f31532\fbidi \froman\fcharset162\fprq2 Cambria Tur;}{\fhimajor\f31535\fbidi \froman\fcharset186\fprq2 Cambria Baltic;}
+{\fhimajor\f31536\fbidi \froman\fcharset163\fprq2 Cambria (Vietnamese);}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}
+{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}
+{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}
+{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}
+{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}
+{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}
+{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}
+{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}
+{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}
+{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}
+{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}
+{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}
+{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}
+{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}
+{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}
+{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}
+{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}
+{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}
+{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;
+\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\*\defchp 
+\fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 
+\rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext0 \sqformat \spriority0 Normal;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 
+\snext11 \ssemihidden \sunhideused \sqformat Normal Table;}{\s15\qj \fi-360\li720\ri0\nowidctlpar\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 
+\ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext15 Outline003_1;}{\s16\qj \fi-360\li1440\ri0\nowidctlpar
+\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin1440\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 
+\snext16 Outline003_2;}{\s17\qj \fi-180\li2160\ri0\nowidctlpar\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin2160\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext17 Outline003_3;}{\s18\qj \fi-360\li2880\ri0\nowidctlpar\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin2880\itap0 
+\rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext18 Outline003_4;}{\s19\qj \fi-360\li3600\ri0\nowidctlpar
+\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin3600\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext19 Outline003_5;}{
+\s20\qj \fi-180\li4320\ri0\nowidctlpar\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin4320\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext20 Outline003_6;}{\s21\qj \fi-360\li5040\ri0\nowidctlpar\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin5040\itap0 \rtlch\fcs1 
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext21 Outline003_7;}{\s22\qj \fi-360\li5760\ri0\nowidctlpar\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin5760\itap0 
+\rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext22 Outline003_8;}{\s23\qj \fi-180\li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext23 Outline003_9;}{\s24\qj \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext24 _26;}{\s25\qj \fi-720\li1440\ri0\nowidctlpar\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin1440\itap0 
+\rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext25 _25;}{\s26\qj \li2160\ri0\nowidctlpar
+\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin2160\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext26 _24;}{
+\s27\qj \li2880\ri0\nowidctlpar\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin2880\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext27 _23;}{\s28\qj \li3600\ri0\nowidctlpar\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin3600\itap0 \rtlch\fcs1 
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext28 _22;}{\s29\qj \li4320\ri0\nowidctlpar\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin4320\itap0 
+\rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext29 _21;}{\s30\qj \li5040\ri0\nowidctlpar
+\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin5040\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext30 _20;}{
+\s31\qj \li5760\ri0\nowidctlpar\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin5760\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext31 _19;}{
+\s32\qj \li6480\ri0\nowidctlpar\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin6480\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext32 _18;}{
+\s33\qj \li0\ri0\nowidctlpar\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext33 _17;}{\s34\qj \fi-720\li1440\ri0\nowidctlpar\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin1440\itap0 
+\rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext34 _16;}{\s35\qj \li2160\ri0\nowidctlpar
+\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin2160\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext35 _15;}{
+\s36\qj \li2880\ri0\nowidctlpar\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin2880\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext36 _14;}{\s37\qj \li3600\ri0\nowidctlpar\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin3600\itap0 \rtlch\fcs1 
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext37 _13;}{\s38\qj \li4320\ri0\nowidctlpar\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin4320\itap0 
+\rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext38 _12;}{\s39\qj \li5040\ri0\nowidctlpar
+\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin5040\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext39 _11;}{
+\s40\qj \li5760\ri0\nowidctlpar\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin5760\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext40 _10;}{
+\s41\qj \li6480\ri0\nowidctlpar\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin6480\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext41 _9;}{
+\s42\qj \li0\ri0\nowidctlpar\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext42 _8;}{\s43\qj \fi-720\li1440\ri0\nowidctlpar\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin1440\itap0 
+\rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext43 _7;}{\s44\qj \li2160\ri0\nowidctlpar
+\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin2160\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext44 _6;}{
+\s45\qj \li2880\ri0\nowidctlpar\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin2880\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext45 _5;}{\s46\qj \li3600\ri0\nowidctlpar\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin3600\itap0 \rtlch\fcs1 
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext46 _4;}{\s47\qj \li4320\ri0\nowidctlpar\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin4320\itap0 
+\rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext47 _3;}{\s48\qj \li5040\ri0\nowidctlpar
+\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin5040\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext48 _2;}{
+\s49\qj \li5760\ri0\nowidctlpar\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin5760\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext49 _1;}{
+\s50\qj \li6480\ri0\nowidctlpar\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin6480\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext50 _;}{\*\cs51 
+\additive Default Para;}{\s52\qj \li720\ri0\sl275\slmult1\nowidctlpar\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\fs22\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext52 List Paragra;}{\s53\qj \fi-360\li720\ri0\nowidctlpar
+\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 
+\snext53 Outline001_1;}{\s54\qj \fi-360\li1440\ri0\nowidctlpar\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin1440\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext54 Outline001_2;}{\s55\qj \fi-180\li2160\ri0\nowidctlpar
+\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin2160\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext55 
+Outline001_3;}{\s56\qj \fi-360\li2880\ri0\nowidctlpar\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin2880\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext56 Outline001_4;}{\s57\qj \fi-360\li3600\ri0\nowidctlpar\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin3600\itap0 \rtlch\fcs1 
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext57 Outline001_5;}{\s58\qj \fi-180\li4320\ri0\nowidctlpar
+\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin4320\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext58 Outline001_6;}{
+\s59\qj \fi-360\li5040\ri0\nowidctlpar\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin5040\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 
+\snext59 Outline001_7;}{\s60\qj \fi-360\li5760\ri0\nowidctlpar\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin5760\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext60 Outline001_8;}{\s61\qj \fi-180\li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext61 Outline001_9;}{\s62\qj \fi-360\li720\ri0\nowidctlpar
+\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 
+\snext62 Outline002_1;}{\s63\qj \fi-360\li1440\ri0\nowidctlpar\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin1440\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext63 Outline002_2;}{\s64\qj \fi-180\li2160\ri0\nowidctlpar
+\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin2160\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext64 
+Outline002_3;}{\s65\qj \fi-360\li2880\ri0\nowidctlpar\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin2880\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext65 Outline002_4;}{\s66\qj \fi-360\li3600\ri0\nowidctlpar\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin3600\itap0 \rtlch\fcs1 
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext66 Outline002_5;}{\s67\qj \fi-180\li4320\ri0\nowidctlpar
+\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin4320\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext67 Outline002_6;}{
+\s68\qj \fi-360\li5040\ri0\nowidctlpar\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin5040\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 
+\snext68 Outline002_7;}{\s69\qj \fi-360\li5760\ri0\nowidctlpar\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin5760\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext69 Outline002_8;}{\s70\qj \fi-180\li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext70 Outline002_9;}{\s71\qj \fi-360\li720\ri0\nowidctlpar
+\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 
+\snext71 Outline004_1;}{\s72\qj \fi-360\li1440\ri0\nowidctlpar\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin1440\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext72 Outline004_2;}{\s73\qj \fi-180\li2160\ri0\nowidctlpar
+\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin2160\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext73 
+Outline004_3;}{\s74\qj \fi-360\li2880\ri0\nowidctlpar\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin2880\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext74 Outline004_4;}{\s75\qj \fi-360\li3600\ri0\nowidctlpar\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin3600\itap0 \rtlch\fcs1 
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext75 Outline004_5;}{\s76\qj \fi-180\li4320\ri0\nowidctlpar
+\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin4320\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext76 Outline004_6;}{
+\s77\qj \fi-360\li5040\ri0\nowidctlpar\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin5040\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 
+\snext77 Outline004_7;}{\s78\qj \fi-360\li5760\ri0\nowidctlpar\tx5760\tx6480\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin5760\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext78 Outline004_8;}{\s79\qj \fi-180\li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext79 Outline004_9;}}{\*\rsidtbl \rsid1669733\rsid7420072\rsid8072480}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1
+\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Walter Evans}{\creatim\yr2016\mo5\dy17\hr8\min25}{\revtim\yr2016\mo5\dy17\hr8\min48}{\version2}{\edmins23}{\nofpages33}{\nofwords7457}{\nofchars33039}{\nofcharsws40416}{\vern32775}}
+{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw7920\paperh12240\margl1080\margr1080\margt1080\margb1080\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\hyphhotz936\trackmoves1\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0
+\notabind\nocolbal\subfontbysize\lytprtmet\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale140\rsidroot8072480 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect
+\linex0\headery1440\footery1440\endnhere\sectdefaultcl\sectrsid7420072\sftnbj {\*\pnseclvl1\pndec\pnstart1 {\pntxta .}}{\*\pnseclvl2\pnlcltr\pnstart1 {\pntxta .}}{\*\pnseclvl3\pnlcrm\pnstart1 {\pntxta .}}{\*\pnseclvl4\pndec\pnstart1 {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl5\pnlcltr\pnstart1 {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcrm\pnstart1 {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pndec\pnstart1 {\pntxta .}}{\*\pnseclvl8\pnlcltr\pnstart1 {\pntxta .}}{\*\pnseclvl9\pnlcrm\pnstart1 }\pard\plain \ltrpar
+\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\field{\*\fldinst {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\fs24\lang4105\langfe1033\langnp4105\insrsid1669733 \hich\af0\dbch\af31505\loch\f0  SEQ CHAPTER \\h \\r 1}}{\fldrslt }}\sectd \ltrsect\linex0\headery1440\footery1440\endnhere\sectdefaultcl\sectrsid7420072\sftnbj {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 
+\b\f1\fs24\insrsid1669733 \tab \tab }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid1669733 \sect }\sectd \ltrsect\sbknone\linex0\headery1440\footery1440\endnhere\sectdefaultcl\sftnbj \pard\plain \ltrpar
+\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 
+
+\par \hich\af1\dbch\af31505\loch\f1    }{\rtlch\fcs1 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\insrsid1669733 \hich\af1\dbch\af31505\loch\f1       \tab }{\rtlch\fcs1 \ab\af1\afs28 \ltrch\fcs0 \b\f1\fs28\ul\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Home Experiences}{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 
+\par \tab \tab \tab \tab \tab 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 1:  The Oak Tree and the Reeds}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-2160\li2160\ri0\sb240\widctlpar\tx720\tx1440\tx2160\wrapdefault\faauto\rin0\lin2160\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (1-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\tab \hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K, 1
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 What lesson did the Oak Tree learn from the reed?  Think of a lesson you learned from a friend.   What was the lesson you learned?  Was the lesson you learned a little bit like the lesson t\hich\af1\dbch\af31505\loch\f1 
+he oak tree learned or was the lesson you learned mostly different?}{\field{\*\fldinst {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 ADVANCE \\d 12}}{\fldrslt }}\sectd \ltrsect
+\sbknone\linex0\headery1440\footery1440\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sb240\widctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (1-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K, 1\tab 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 A person could say the moral, or lesson, of the story is that sometimes it is better not to be stubborn and end up breaking like the oak\hich\af1\dbch\af31505\loch\f1  tree. Sometimes it\loch\af1\dbch\af31505\hich\f1 
+\rquote \hich\af1\dbch\af31505\loch\f1 s better to be flexible and compromise and be willing to bend and change.  Have you ever been stubborn like the oak tree? Have you ever \loch\af1\dbch\af31505\hich\f1 \'93\hich\af1\dbch\af31505\loch\f1 bent
+\loch\af1\dbch\af31505\hich\f1 \'94\hich\af1\dbch\af31505\loch\f1  or been flexible and compromised like the reeds? Talk about it to your parent or a friend. 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 2:  The Dog and His Shadow}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab 
+\par \tab 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Name the different animals in this story. What was the mouse eating? What type of food did the dog steal from the crow? What happened to the drumstic
+\hich\af1\dbch\af31505\loch\f1 k? Why did the dog steal the food from the other animals? Was he just hungry or do you think he might have had a different reason?  Why do you think so? \tab 
+\par 
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (2-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1  \tab Can you do it?\tab Grade: K, 1}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1  
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 Can you remember what kind of food each animal was eating?   What does the word \loch\af1\dbch\af31505\hich\f1 \'93\hich\af1\dbch\af31505\loch\f1 greedy\loch\af1\dbch\af31505\hich\f1 \'94\hich\af1\dbch\af31505\loch\f1 
+ mean?  Who was the greediest animal?  Does the story have a lesson or moral?  What do you \hich\af1\dbch\af31505\loch\f1 think the lesson or moral of the story is?  Why do you think so? 
+\par }\pard \ltrpar\ql \li0\ri0\sb240\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 3:  The Princess and the Pea}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (3-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K, 1}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1  \tab }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Who did the prince want to marry?  Why did the princess stop at the castle?  The queen wan\hich\af1\dbch\af31505\loch\f1 
+ted to prove the girl was a real princess, so what did she do?  What made the girl turn black and blue?  Was she a real princess?  Do you think you would feel three peas if they were put under your mattress?  What three things would you feel if they were 
+\hich\af1\dbch\af31505\loch\f1 p\hich\af1\dbch\af31505\loch\f1 ut under your mattress? 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 4:  The Blind Men and the Elephant}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (4-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K\tab 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1             
+\par \hich\af1\dbch\af31505\loch\f1 How many blind men were in the story? If you were there, how could you help the blind men figure out \hich\af1\dbch\af31505\loch\f1 
+what they were touching? Have you ever closed your eyes and tried to guess what something was just by touching it? Would it be easy or hard if the thing you felt was bigger than your hand? 
+\par 
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (4-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1  \tab Can you do it? \tab \tab Grade: K, 1}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1                       }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Get some toys or simple things in your home that won\loch\af1\dbch\af31505\hich\f1 
+\rquote \hich\af1\dbch\af31505\loch\f1 t break or cut or spill.  Put these things in some kind of a box or sack.   Close your eyes and keep them closed while you pick up each object and feel it.  Can you tell what each \hich\af1\dbch\af31505\loch\f1 
+object is by feeling it?  (4-2, continued)  What is it about feeling an object that can help you know?   Draw a picture of something that feels like what you touched but is different.  
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 5:  The Country Mouse and the City Mouse
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (5-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1  Can you do it? \tab \tab \hich\af1\dbch\af31505\loch\f1 Grade: K\tab 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Have you ever been to visit with someone who lived in the country and with someone who lived in the city?  Are you more of a city person or more of a country person?  Which do you like be\hich\af1\dbch\af31505\loch\f1 
+tter?  Name or draw two things that are probably in the city but probably not in the country. Name or draw two things that are probably in the city but not in the country?  
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (5-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1  \tab Can you do it?\tab \tab Grade: K                         
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Say what the city mouse was like and what the country  mouse was like.  How were they different?  What do you think the city mouse found outside to eat every day?  What did they find in the house in the city, when the county cousin mouse came to vi
+\hich\af1\dbch\af31505\loch\f1 sit? Which house would you choose?  Draw a city house or a country house with some food inside.  
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (5-3)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1  \tab Can you do it? \tab \tab Grade: 1 \tab              
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 What was the major difference, that is the most important different, between the
+\hich\af1\dbch\af31505\loch\f1  country mouse and the city mouse?  What did they each eat most of the time?  Did they dress alike or differently?  Did the country mouse enjoy his visit to the city mouse\loch\af1\dbch\af31505\hich\f1 \rquote 
+\hich\af1\dbch\af31505\loch\f1 s house?  What scared him and made him want to go home?  At the end of the story was\hich\af1\dbch\af31505\loch\f1  the country mouse glad to be back home.  Why?  
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 6:  The Lion and the Mouse}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (6-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1  \tab Can you do it? \tab \tab Grade: K}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1  \tab                 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Draw a picture of the lion that\loch\af1\dbch\af31505\hich\f1 \rquote 
+\hich\af1\dbch\af31505\loch\f1 s different from a picture you\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 ve already seen.  Draw a picture of t\hich\af1\dbch\af31505\loch\f1 he mouse that\loch\af1\dbch\af31505\hich\f1 \rquote 
+\hich\af1\dbch\af31505\loch\f1 s different from a picture you\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 
+re already seen.  Write or say what the mouse was afraid might happen to him.  Write or say what the lion was afraid might happen to him.   
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sb240\sa199\sl275\slmult1\widctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (6-2) }{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1  \tab Can you do it? \tab \tab Grade: Pre-K, K, 1\tab 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+The lion did not believe the mouse would be able to help him.  Did the lion make a mistake about that?  Even the smallest friends can do big favors. Have you ever felt too small to help someone?  Cut out a piece \hich\af1\dbch\af31505\loch\f1 
+of paper and draw or write about a favor that you have done for someone else. Or, you can draw or write about a favor someone did for you. Make a \loch\af1\dbch\af31505\hich\f1 \'93\hich\af1\dbch\af31505\loch\f1 favor chain\loch\af1\dbch\af31505\hich\f1 
+\'94\hich\af1\dbch\af31505\loch\f1  by taping or hooking the papers together in a chain. Hang up the \loch\af1\dbch\af31505\hich\f1 \'93\hich\af1\dbch\af31505\loch\f1 favor chain\loch\af1\dbch\af31505\hich\f1 \'94\hich\af1\dbch\af31505\loch\f1 
+ and add a paper l\hich\af1\dbch\af31505\loch\f1 ink each time you do a favor or someone does a favor for you.  
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 7:  The Rooster and the Fox }{
+\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (7-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? Grade: K                                       }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\cf6\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 In the story the rooster said:  
+\loch\af1\dbch\af31505\hich\f1 \'93\hich\af1\dbch\af31505\loch\f1 Fool me once, shame on you\loch\af1\dbch\af31505\hich\f1 \emdash \hich\af1\dbch\af31505\loch\f1 fool me twice, shame on me.\loch\af1\dbch\af31505\hich\f1 \'94\hich\af1\dbch\af31505\loch\f1 
+ Explain to an adult or a friend what this means.  Write a sentence about what the rooster said and share your sentence with your class at school the next day.  
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (7-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade:  K, 1\tab \tab 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+What does the fox want to do with the rooster?  Why do you think the rooster sang with both eyes shut? Tell how the rooster gets away from the fox. How do you  think the fox and the rooster are kind of the same? How are they different?   }
+{\field{\*\fldinst {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 A\hich\af1\dbch\af31505\loch\f1 DVANCE \\d 12}}{\fldrslt }}\sectd \ltrsect\sbknone\linex0\headery1440\footery1440\endnhere\sectdefaultcl\sftnbj {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 8: The Little Red Hen}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (8-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade:  K, 1\tab \tab 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+When the Little Red Hen found a grain of wheat what did she want to do with it?  Put the story in order by what she did.  Did she really want to do all\hich\af1\dbch\af31505\loch\f1 
+ the work alone all by herself?  Who did she ask for help?  Did the animals help the Little Red Hen in any way?  After the Little Red Hen finished with the bread, what did she do?  
+\par }\pard \ltrpar\ql \li0\ri0\sb240\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 9:  How the Sun and Moon Came to the Sky}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (9-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade:  K\tab \tab 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 Why didn\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 t Water visit Sun and Moon\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 
+s house?  Have you ever visited someone whose house seemed very different from yours? Tell about what seemed different during that visit. 
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (9-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab \hich\af1\dbch\af31505\loch\f1 Grade:  K\tab \tab \hich\af1\dbch\af31505\loch\f1  
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+What are some things you can do outside when the sun is shining?  What are some things you can do outside when the moon is shining?  Draw a line down the middle of a piece of paper.  On one side draw or cut and paste pictu\hich\af1\dbch\af31505\loch\f1 
+res of things you can do in the sun, and on the other side draw or cut and paste pictures of things you can do outside when the moon is shining.  
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 10:}{\rtlch\fcs1 \af1\afs24 \ltrch\fcs0 \f1\fs24\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1   }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 The Grasshopper and the Ants}{\rtlch\fcs1 \af1\afs24 \ltrch\fcs0 \f1\fs24\insrsid1669733 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (10-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab Grade:  K\tab                           
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1            
+\par \hich\af1\dbch\af31505\loch\f1 Who worked hard all summer? What did the grasshopper do? Who was ready for the winter?  What happened to the grasshopper?  Can you remember a time when you acted like the grasshopper?  Can you rem
+\hich\af1\dbch\af31505\loch\f1 ember a time when you acted like the ants?  Do you think it\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 s better to behave like the grasshopper or like the ants?  Why?
+\par 
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (10-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade:  K\tab \tab 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 What did the grasshopper do all day?  What did the ants do?  Why 
+\hich\af1\dbch\af31505\loch\f1 
+were the ants working so hard?  What did the grasshopper try to get the ants to do?  Did they keep working or not?  When the winter came, what happened to the grasshopper?  Had he made a good choice earlier in the story?  Were the ants happy?  What lesson
+\hich\af1\dbch\af31505\loch\f1  \hich\af1\dbch\af31505\loch\f1 did the grasshopper learn?  Do you think he will be better prepared for winter the next year?  
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 11:  The Boy Who Cried Wolf}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab \tab \tab 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (11-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1  \tab              
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Who is the main character in the story?  A\hich\af1\dbch\af31505\loch\f1 
+t the beginning of the story what did he think was a problem?  How did he try to solve the problem?  By the end of the story what did the people in the village think was the problem?  How did the people solve the problem? 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid8072480 
+\par }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (11-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab \hich\af1\dbch\af31505\loch\f1 Can you do it? }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab }{
+\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Grade:  \hich\af1\dbch\af31505\loch\f1 K,1                                        
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Why is it important to tell the truth? How do you think the people of the town felt when the boy lied to them? At the end of the story, the boy seemed very sorry that h\hich\af1\dbch\af31505\loch\f1 
+e had lied. Write, say, or draw an apology letter from the boy to the people in the town. What would he say to make them believe him?  \tab \tab 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\sb240\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 12:  Chicken Little}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\f1\insrsid1669733 \tab \tab 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (12-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade:  PK, K, 1\tab 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 What fell in the begi\hich\af1\dbch\af31505\loch\f1 
+nning of the story? Why do you think Chicken Little thought the sky was falling? Can the sky really fall? What are some things that can fall from the sky? How does the story end? Why do you think Foxy Loxy wanted Chicken Little and his friends to come int
+\hich\af1\dbch\af31505\loch\f1 o\hich\af1\dbch\af31505\loch\f1  his den?  \tab \tab }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 13:  The Three Wishes}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (13-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade:  K\tab \tab 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+What were the poor man and his wife arguing and disagreeing and fussing about?  Who came to visit them, and what did she tell them?  Did the wife make a g\hich\af1\dbch\af31505\loch\f1 
+ood, wise choice?  Did the man make a good, wise choice?  What happened to the woman to make she and her husband know that they were making bad, foolish wishes?  After all that happened, do you think they  would begin to make better choices to live by?  
+
+\par }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 14:}{\rtlch\fcs1 \af1\afs24 \ltrch\fcs0 \f1\fs24\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1   }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 The Queen Bee}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (14-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade:  K\tab \tab 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 What do you think the name Numbskull means?  Numbskull was kind to the animals. Draw a picture showing how the animals helped Numbskull?  
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 15:}{\rtlch\fcs1 \af1\afs24 \ltrch\fcs0 \f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1    }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 
+\b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 How Fire Came to the Indians}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (15-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade:  K\tab              
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 What was the gift that the boy brought to the people from the great water bags in the sky? Draw a picture to show the gift that the b\hich\af1\dbch\af31505\loch\f1 oy brought to the people.  
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (15-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab \hich\af1\dbch\af31505\loch\f1 Grade: K\tab \tab \hich\af1\dbch\af31505\loch\f1    
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1    
+\par \hich\af1\dbch\af31505\loch\f1 Fold a piece of paper in half and then fold it in half again so when you unfold it you have four different places to draw.  Draw four things that happened \hich\af1\dbch\af31505\loch\f1 
+in the story so the pictures show what came first, then what came next, then what came next, then the last part of the story.
+\par 
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (15-3)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade:  1\tab              
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 In the beginning, did the Indians have fire?  What\hich\af1\dbch\af31505\loch\f1 
+ were the black bags of water in the sky? What were the crooked sticks of light?  Did the people like to eat their food raw?  Why was it raw?  Why were the children shivering? When the boy told the men and women that he would bring them fire, they laughed
+.\hich\af1\dbch\af31505\loch\f1 
+ When the Great Spirit took the black bags away, how did the boy prepare himself?  When he shot the arrow into the bag, what came down to the earth?  Were the people happy?  What were the colors of the fire, and where did they come from?  When it was all 
+\hich\af1\dbch\af31505\loch\f1 o\hich\af1\dbch\af31505\loch\f1 ver, the people missed the boy.  What happened to him? Tell an adult about the story. 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 16:  The Elves and the Shoemaker}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (16-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: PreK, K, 1\tab 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid8072480 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+The elves in the story helped the shoemaker without being asked. What did the elves do to show they were nice? In what way did the shoemaker and his wife thank the elves? Has anyone ever helped you in your life? Draw a picture of something you might do fo
+\hich\af1\dbch\af31505\loch\f1 r\hich\af1\dbch\af31505\loch\f1  this person. Or, write a thank you letter from the shoemaker to the elves.  
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (16-2) }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it?  \tab \tab Grade: K\tab              }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Do you think the story is about something that }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 really did}{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1  happen, or about something that\hich\af1\dbch\af31505\loch\f1  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 could }{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1  happen, or about something that }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 could never}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1  happen?  What in the story makes you think so? 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 17:  Goldilocks and the Three Bears\tab }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 (17-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1     Can you do it? }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Grade: K, 1\tab                             \hich\af1\dbch\af31505\loch\f1         
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Goldilocks walks into the bears\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1  house without first asking an adult she knows. Was it safe for her to do this? Was it right for her to go in the bears
+\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1  house without the bears\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1  permission? How would y\hich\af1\dbch\af31505\loch\f1 
+ou feel if someone came into your house like Goldilocks and ate your food and broke your things? What do you think happened to Goldilocks after she ran away? Draw a picture or tell or write a letter from the baby bear to Goldilocks
+\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1  mother. Draw or tell or\hich\af1\dbch\af31505\loch\f1  write what Goldilocks did in the beginning, the middle, and the end.   
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (17-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K, 1 \tab                }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Draw a picture-map showing the rooms in the Bear
+\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 s house. \hich\af1\dbch\af31505\loch\f1   Draw and cut out a picture of Cinderella and move her through the rooms of the Bear\loch\af1\dbch\af31505\hich\f1 \rquote 
+\hich\af1\dbch\af31505\loch\f1 s house.   Tell an adult or a friend which room is your favorite room and why.  
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 18:  Toads and Diamonds}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (18-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K\tab \tab 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 
+What was the oldest daughter like?  What was the youngest daughter like?   Who was the kindest?  Why do you think so?  Which daughter got the best gift?  Were the two girls treated the same way by the mother?  Where did the oldest daughter go at the end 
+\hich\af1\dbch\af31505\loch\f1 of the story?  What good thing happened to the youngest daughter at the end? 
+\par 
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (18-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: 1 \tab              
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 How many daughters does the woman have?  Were they alike?  Who was the oldest daughter like?  Who \hich\af1\dbch\af31505\loch\f1 
+was the youngest daughter like?  What did the mother make the youngest daughter do? Who did the youngest daughter meet?  What was the gift from the old lady?  Why was the mother angry?  When she sent the oldest daughter what happened?  What gift did the p
+\hich\af1\dbch\af31505\loch\f1 r\hich\af1\dbch\af31505\loch\f1 incess give the oldest daughter?  Who did the mother blame for all of this?  When the youngest daughter ran away, who did she meet?  What happened to her at the end of the story? 
+\par }\pard \ltrpar\ql \li0\ri0\sb240\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 19:  The Turtle and the Rabbit}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (19-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K\tab           \hich\af1\dbch\af31505\loch\f1   
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 Have you ever run a race with someone?  After a race or a game did you ever brag and tell somebody else that you were the best? Who did the bragging in the story? Draw a picture of the winner of the rac
+\hich\af1\dbch\af31505\loch\f1 e.  
+\par \tab \tab 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 20:   The Frog Prince}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (20-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab \hich\af1\dbch\af31505\loch\f1 Grade: K\tab              
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 Have you ever held a frog in your hand?  Would you like to share everything with a frog? How many nights\hich\af1\dbch\af31505\loch\f1  did the frog have to eat from the princess\loch\af1\dbch\af31505\hich\f1 \rquote 
+\hich\af1\dbch\af31505\loch\f1 s plate and sleep on her bed to break the
+\par \hich\af1\dbch\af31505\loch\f1 spell?  
+\par 
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (20-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: 1 \tab              }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 In the beginning of the story what was the princess playing with?  What did the pr
+\hich\af1\dbch\af31505\loch\f1 
+incess promise the frog if he got her golden ball for her?  Did she remember her promise?  Did she want to let the frog sleep in her bed?  What did her father the king tell her to do?  How many days did the frog come to the princess?  What happened on the
+\hich\af1\dbch\af31505\loch\f1  \hich\af1\dbch\af31505\loch\f1 fourth day?  Was the princess happy?  What made her the happiest? Draw a picture of the frog and the princess.  
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\sb240\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 21: The Three Little Pigs}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\f1\insrsid1669733 \tab \tab 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (21-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K,1\tab \tab 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Do you think the first pig made a good choice \hich\af1\dbch\af31505\loch\f1 
+when he decided to spend all his money on candy?  Which pig made the best and smartest choice about saving and then spending his money?  Do you think the three pigs were good brothers? Tell why you think that. What if the wolf had one or two brothers? If 
+\hich\af1\dbch\af31505\loch\f1 t\hich\af1\dbch\af31505\loch\f1 he wolf had brothers in the story, how do you think the wolf brothers might help each other? 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (21-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K  \tab              }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Have you heard a different version of the story about the three pigs or seen a pictu\hich\af1\dbch\af31505\loch\f1 
+re book version or watched a cartoon version of the story?  If so, which version did you like best and why?  Did a different version tell about the pig\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 
+s mother?  Did the pigs have money in another version?  Did the pigs buy candy in another version?   Did\hich\af1\dbch\af31505\loch\f1  the wolf say:  \loch\af1\dbch\af31505\hich\f1 \'93\hich\af1\dbch\af31505\loch\f1 
+Little pig, little pig, let me come in.\loch\af1\dbch\af31505\hich\f1 \'94\hich\af1\dbch\af31505\loch\f1    Did the pig answer:  \loch\af1\dbch\af31505\hich\f1 \'93\hich\af1\dbch\af31505\loch\f1 Not by the hair of my chinny, chin, chin.
+\loch\af1\dbch\af31505\hich\f1 \'94\hich\af1\dbch\af31505\loch\f1   Inthe other version, what happened to the wolf at the very end?  Did he become the pigs\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1  dinner or did he run away?}{
+\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 22:  The Thre\hich\af1\dbch\af31505\loch\f1 e Billy Goats Gruff}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (22-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade:\tab 1\tab             }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Fold a piece of paper in half once, and then fold it in half again to mark four parts on the paper.  In one part draw the smallest goat.  \hich\af1\dbch\af31505\loch\f1 
+In another part draw the middle size goat.  In another part draw the biggest goat.  In the last part draw the troll.  Cut out the pictures of the goats and the troll so you can use the pictures to tell the story.  For the grass hillsides you might use two
+\hich\af1\dbch\af31505\loch\f1  \hich\af1\dbch\af31505\loch\f1 
+pillows or two handkerchiefs or something else.  For the bridge you might use a book or box or something else.  Listen to the story being read again and use your pictures to show and tell the story.  Show and tell the story to a friend or a grownup or at 
+\hich\af1\dbch\af31505\loch\f1 s\hich\af1\dbch\af31505\loch\f1 chool.  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (22-2) }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade Level: K, 1\tab 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Which character in the story is the meanest and cruelest, like a big bad bully? What does the troll want to do with the goats?   Draw a different way the goats c\hich\af1\dbch\af31505\loch\f1 an get across the watery stream without using the bridge.  
+
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 23:  Tortoise, Elephant, and Hippo}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (23-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1  \tab Can you do it?\tab \tab Grade: K  \tab              
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Elephant and Hippo were friends.  Were they friends with Turtle?  Why not?  How did
+\hich\af1\dbch\af31505\loch\f1  turtle trick the two?  Did they ever find out?  Were they all friends at the end of the story?  
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (23-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: 1  \tab             }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Who were the strongest animals in the story?  Who was the smartest animal in the 
+\hich\af1\dbch\af31505\loch\f1 
+story?  When Turtle gave Elephant and Hippo the end of the rope, what were they waiting for?  How did the Turtle trick the two?  Did Elephant and Hippo think they were stronger than Turtle?  Did all three animals finally become friends?  What did the thre
+\hich\af1\dbch\af31505\loch\f1 e\hich\af1\dbch\af31505\loch\f1  animals finally all share? \tab 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 24:   The Tale of Peter Rabbit}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (24-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K  \tab            
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1           
+\par }\pard\plain \ltrpar\s52\ql \li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af1\afs20 \ltrch\fcs0 
+\f1\fs20\insrsid1669733 \tab \tab 
+\par }\pard\plain \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af1 
+\ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Have you ever planted a garden? What would be nice to plant in a garden?  What kinds o\hich\af1\dbch\af31505\loch\f1 
+f things would a rabbit like in a garden?  What did Mr. MacGregor do with Peter\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 s coat and shoes?  Why did Mr. MacGregor do that?  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (24-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: 1                        
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Name all of Mother Rabbit\loch\af1\dbch\af31505\hich\f1 \rquote 
+\hich\af1\dbch\af31505\loch\f1 
+s children.  Which rabbit child was the naughtiest and got into the most mischief?  Peter Rabbit disobeyed his mother and went where?  When Peter ran into the tool shed, where did he land?  Why did Peter cry?  What clothes did Peter lose?  What happened t
+\hich\af1\dbch\af31505\loch\f1 o\hich\af1\dbch\af31505\loch\f1  Peter when he got home?  What lesson should Peter have learned from his adventure?
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 25:  The Pied Piper of Hamlin}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par 
+\par }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (25-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1    Can you do it}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1 ? }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab \tab \hich\af1\dbch\af31505\loch\f1 Grade: K  \tab           
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid8072480 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1            \tab 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+What kind of animal was bothering all of the people in the story? How did they take care of their problem? Is important to keep your word and do what you promise when you tell someone you will do something?   Did the Pied Piper keep his promise?  At the e
+\hich\af1\dbch\af31505\loch\f1 n\hich\af1\dbch\af31505\loch\f1 d of the story, were the grown-ups in Hamlin town happy or sad about how they didn\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 
+t keep their word and do what they had promised?
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (25-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K\tab \tab }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 What kind of musical instrument did the Pied Piper of 
+\hich\af1\dbch\af31505\loch\f1 Hamelin play?  Draw a picture of his musical instrument.  If you wanted to make a musical instrument like that, what could you use to make it out of?  How did the Pied Piper of Hamelin make the animals do what he wanted?   
+
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (25-3)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: \hich\af1\dbch\af31505\loch\f1 1\tab              }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Assignment: What was the problem in Hamelin?  What needed to be done?  When the Pied Piper came into town, what did the people promise him?  How did he get the rats to leave the city?  When all were gone, did th\hich\af1\dbch\af31505\loch\f1 
+e people in the town keep their promise?  What did the Pied Piper do to get even?  Do you think the people in the town wished they had kept their promise? Draw a picture of the Pied Piper with the children following him out of town. 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 26:  The Gingerbread\hich\af1\dbch\af31505\loch\f1  Man}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab \tab \tab 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sb240\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (26-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1  \tab Can you do it? \tab \tab Grade: K  \tab             }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Draw a picture of the Gingerbread Man and use glue or tape to put the picture on a stick or pencil.  Listen to the story again, and when you hear the words\loch\af1\dbch\af31505\hich\f1 \emdash \'93\hich\af1\dbch\af31505\loch\f1 Run, Run fast
+\hich\af1\dbch\af31505\loch\f1  as you can, you can\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 t catch me I\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 m the Gingerbread Man!
+\loch\af1\dbch\af31505\hich\f1 \'94\hich\af1\dbch\af31505\loch\f1  \loch\af1\dbch\af31505\hich\f1 \emdash \hich\af1\dbch\af31505\loch\f1  say them at the same time and make your Gingerbread Man hop and bounce and move along quickly.   
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (26-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1  \tab Can you do it? \tab \tab Grade: K,1  \tab             
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+That Gingerbread Man was really fast! Why do you think the Gingerbread Man ran and ran? Who did he run away from first? Who was the last character to chase him?  What would you do to catch the Gingerbread man? Imagine a Gingerbread Man trap and, if you
+\hich\af1\dbch\af31505\loch\f1  can, draw a picture of the trap. 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 27:  Rumplestiltskin }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (27-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1  \tab Can you do it? \tab \tab Grade: Pre-K, K  \tab 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 The miller\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 
+s daughter had a big problem and Rumplestiltskin helped her by using magic to spin straw into gold.  If you co\hich\af1\dbch\af31505\loch\f1 
+uld do magic what would you do? Would you be greedy like the king or would you do magic to help others? Draw a picture of you using magic to solve a problem. 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (27-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade:\tab  K\tab              }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 How many charac\hich\af1\dbch\af31505\loch\f1 
+ters in the story were bossy and told the miller\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 
+s daughter what to do?  Which character was the bossiest?  Which character was the meanest?  Why do you think that character was meanest?    Which character did most to help the miller\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 
+s daughter?  Which cha\hich\af1\dbch\af31505\loch\f1 racter in the story do you think was the smartest?  Why?
+\par }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 28:  Little Red Riding Hood}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (28-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K,1  \tab             }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Why did the little girl cut through the forest?   Was it a good 
+\hich\af1\dbch\af31505\loch\f1 choice?  Who did she meet along the way?  Where did the wolf go?  Was the little girl frightened?  When Little Red Riding Hood realized who he was, what did the wolf do?  How was the little girl saved at the end? 
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (28-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K,1  \tab     \hich\af1\dbch\af31505\loch\f1         }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Why was the little girl called Little Red Riding Hood?  Who made the hood for her?  Why was she going to visit her grandmother?  Did the little girl disobey her mother?  How?  What did the wolf do?  What did the girl n\hich\af1\dbch\af31505\loch\f1 
+otice that helped her know the wolf was only pretending to be her grandmother?  Who happened to hear the snoring and come into grandmother\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 
+s house?  Would the girl have been in trouble if she had not disobeyed her mother? 
+\par }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 29:   Rapunzel}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (29-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you d\hich\af1\dbch\af31505\loch\f1 o it? \tab \tab Grade: K
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1           
+\par \hich\af1\dbch\af31505\loch\f1 Why do you think the enchantress made Rupunzel live in a tower with no stairs or doors? What does the enchantress say to Rapunzel each time the enchantress wants to come visit in t\hich\af1\dbch\af31505\loch\f1 
+he tower?  Would be fun to live up in a tower all by yourself? 
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (29-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 ? }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab \tab \hich\af1\dbch\af31505\loch\f1 Grade: 1  \tab             }{
+\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+What was it the poor man and woman saw that was called rampion?  Did it belong to them?  Why did the enchantress\hich\af1\dbch\af31505\loch\f1 
+ say the poor couple must give her their first child?  What was so special about Rapunzel?  Where did she live?  Why?  What would you do with hair long enough to hang from a tower?  How did the prince discover and find out how to visit Rapunzel?  Did Rapu
+\hich\af1\dbch\af31505\loch\f1 n\hich\af1\dbch\af31505\loch\f1 zel mean to tell the enchantress about the prince?   What happened next?  After Rapunzel was sent to the desert, how did the prince find her?  Draw a picture of the prince and Rapunzel. 
+
+\par \hich\af1\dbch\af31505\loch\f1  
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 30:  The Bremen Town Musicians}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (30-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K\tab \tab 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Name the four animals in the story.  How many legs did each animal have?  Draw a picture of one of the animals.  
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (30-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K\tab \tab .
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 The musical instrument in the story was a \hich\af1\dbch\af31505\loch\f1 
+lute.   What is a lute?   Is it like any musical instrument you have seen on television?  What instrument?  Can you describe how a lute looks?  Draw a picture of a lute.  
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (30-3)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K  \tab 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1            
+\par \hich\af1\dbch\af31505\loch\f1 
+Why were all the Bremen Town Musician animals running away when they found the robbers? How do you think that their singing really sounded? Which animal do you think probably sounded the best?  Which do you think probably sounded the w
+\hich\af1\dbch\af31505\loch\f1 orst?  Draw a picture of the animals singing together to scare the robbers.  
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (30-4)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K,1  \tab             }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 All of the animals were put out of their homes for being old.  
+\hich\af1\dbch\af31505\loch\f1 
+What did they all want to do?   Name the animals and the instruments they want to play in the town of Bremen.  When the animals looked through the window and spotted robbers with lots of food, what did the animals do?  What did the robbers do? At the end 
+\hich\af1\dbch\af31505\loch\f1 o\hich\af1\dbch\af31505\loch\f1 f the story, what made the animals happy?                
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 31: The Little Engine That Could
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (31-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K  \tab             }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+The story has lot of different words for sounds the trains make.  Repeat as many of the \hich\af1\dbch\af31505\loch\f1 
+sounds as you can and either write the letters for the sound-word or make a drawing with shapes and lines and colors that show what each different sound might seem like if it were a picture instead of a sound. 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (31-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K,1  \tab         \hich\af1\dbch\af31505\loch\f1     
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+After three bigger, stronger engines would not help the train-of-boxcars carry the toys across the mountain, why do you think the Little Engine was willing to help? How was the Little Engine able to solve the problem? I\hich\af1\dbch\af31505\loch\f1 
+s it hard sometimes to keep trying and not give up? Draw something that was hard for you to do at first, but you kept trying until you could do it. 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1669733 \sect }\sectd \ltrsect\lndscpsxn\pgwsxn12240\pghsxn7920\linex0\headery1440\footery1440\endnhere\sectdefaultcl\sftnbj \pard\plain \ltrpar\ql \li0\ri0\sa199\sl275\slmult1
+\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1 32:  Puss in Boots}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (32-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K,1  \tab             
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Puss is a very smart cat who outsmarts animals and people, too. Outsmart means to trick someone to get what you want. How many times in the story does Puss outsmart somebody? What does Puss say or do to outsmart them?
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (32-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade\hich\af1\dbch\af31505\loch\f1 : K,1  \tab              
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+If you had your own Puss in Boots cat who would help you get the things you wish for, what would you want the cat to do?  Write about or draw pictures of yourself an\hich\af1\dbch\af31505\loch\f1 
+d your smart cat going on an adventure to get or do something that you\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 d like. 
+\par 
+\par }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 33:  The Hardy Tin Soldier}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (33-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: 1  \tab             }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 There were 25 soldiers and one was different.  Why was he different?  W
+\hich\af1\dbch\af31505\loch\f1 
+ho did he see that seemed different like he was?  When boys put him in a paper boat what kind of adventure did he have on the water?  What happened when the fish ate him?  Who found him? Where did he end up?  Who put him in the oven, and who tried to resc
+\hich\af1\dbch\af31505\loch\f1 u\hich\af1\dbch\af31505\loch\f1 e him?  At the end of the story what was all that was found of him and of the ballerina dancer girl?  
+\par }\pard \ltrpar\ql \li0\ri0\sb240\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 34: The Golden Goose}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 (34-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1      Can you do it? \tab \tab Grade: K  \tab                          
+\par \hich\af1\dbch\af31505\loch\f1 It is always good to use your good manners. Can you think of one good manner that everyone should know? Why did the little gray man help Knucklehead?  
+\par 
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (34-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K\tab \tab 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 What is a goose? Where did the go\hich\af1\dbch\af31505\loch\f1 
+ose live?  Why was the goose valuable?  Draw a picture of the goose and of what the goose would lay.  
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (34-3)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: 1  \tab             }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 A father had three sons\loch\af1\dbch\af31505\hich\f1 \emdash 
+\hich\af1\dbch\af31505\loch\f1 what happened to the first two sons?  What did the t\hich\af1\dbch\af31505\loch\f1 
+hird son do?  Was he kind and helpful?  What was his reward?  As he went to the town, he met three ladies.  What silly thing did they do?  As he entered the town, the king\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 
+s daughter saw Knucklehead and started to laugh.  What did the king promise?  How ma\hich\af1\dbch\af31505\loch\f1 ny times did the king send him away to do something?  Who did he give his reward to?  Did he finally marry the princess? }{\rtlch\fcs1 
+\ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 35:  Jack the Giant Killer}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (35-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K  \tab             
+\par }\pard \ltrpar\ql \li0\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 What woul\hich\af1\dbch\af31505\loch\f1 
+d you do if you met a giant like one that Jack met? Would you be scared and hide?  Would you be brave and try to fight.  Would you pretend you didn\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 
+t see him and just walk away?  Would you tell someone to phone 911 and call a policeman?  What did Cormoran \hich\af1\dbch\af31505\loch\f1 the giant do to make Jack kill him?   
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (35-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K\tab }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1       
+\par }\pard \ltrpar\ql \li0\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Name as many different giants in the story as you can and tell one thing about each giant.
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (35-3)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K         \hich\af1\dbch\af31505\loch\f1                       
+\par }\pard \ltrpar\ql \li0\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Tell three different things about Jack or about what Jack did. 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (35-4)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1  \tab Can you do it? \tab \tab Grade: K                         
+\par }\pard \ltrpar\ql \li0\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Large or small:  Draw a large cir\hich\af1\dbch\af31505\loch\f1 
+cle and a small circle near the top of a piece of paper. Turn the big circles into a giant\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 s face and turn the small circle into Jack\loch\af1\dbch\af31505\hich\f1 \rquote 
+\hich\af1\dbch\af31505\loch\f1 s face, and then draw the rest of the giant and the rest of Jack. 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (35-5)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: 1                       \hich\af1\dbch\af31505\loch\f1  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Jack had a special gift.  He could kill giants.  Tell about him killing two of the giants.  How did he rescue the knight and the lady?  After he killed the last giant, what did he give the lady?  Did you like this story?  Say 
+\hich\af1\dbch\af31505\loch\f1 why you did or why you didn\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 t. 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 36:  Why the Sea is Salt, or The Quern at the Bottom of the Sea
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (36-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K,1  \tab                    
+\par }\pard \ltrpar\ql \li0\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Explain why the elder brother and younger brother are different?  Explain why the elder brother and the sea captain alike? Why do they both want the quern?  Get two small rocks and close your eyes and rub them so they grind and scratch against each other.
+\hich\af1\dbch\af31505\loch\f1  \hich\af1\dbch\af31505\loch\f1  Now if your rocks were a quern, what would you want your quern to grind and make? Why?  Draw a picture of what you would want your quern to grind.
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (36-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: 1  \tab             }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Draw a picture of what the quer\hich\af1\dbch\af31505\loch\f1 
+n looks like when it is grinding something for the younger brother.  Draw another picture of what the quern looks like as it is grinding salt at the bottom of the sea.  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 37:  Molly Whuppie}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (37-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K                               }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\cf6\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+How is Molly different from her two sisters?  What animals help Molly?  What three things does the king ask Molly to get for him?
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (37-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K                               
+\par }\pard \ltrpar\ql \li0\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+How does Molly escape from the Ogre?   Who do you think is the trickiest, most clever character in the story?  Why?
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 38:  The Emperor\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 s New Clothes }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (38-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K, 1  \tab             }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Becau\hich\af1\dbch\af31505\loch\f1 
+se they knew the emperor always liked to look his best, who came to visit him?  What did they say was their talent?  Did they have a real talent or only pretend?  What happened when the emperor\loch\af1\dbch\af31505\hich\f1 \rquote 
+\hich\af1\dbch\af31505\loch\f1 s advisors came to look at the new clothes?  Could they really\hich\af1\dbch\af31505\loch\f1 
+ see them?  What did they tell the emperor?  Why?  Did the emperor see the new clothes?  Why did he say he saw the new clothes?  Who finally told the emperor the truth?  What did the emperor promise the boy when he grew up?  
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 39:  Rose White and Rose Re\hich\af1\dbch\af31505\loch\f1 d}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (39-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K  \tab             
+\par }\pard \ltrpar\ql \li0\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Were Rose Red and Rose White good sisters to each other? Were the girls good and kind to their mama and the bear or were they cruel and mean?  Explain why you thin\hich\af1\dbch\af31505\loch\f1 
+k so. Draw a picture of the bear turning into a prince or a picture of your favorite character from the story.  
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (39-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K\tab \tab \hich\af1\dbch\af31505\loch\f1             
+\par }\pard \ltrpar\ql \li0\ri0\sa199\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Get a paper plate or get a piece of paper and use a plate to dr\hich\af1\dbch\af31505\loch\f1 
+aw a circle around the outside edge of the plate.  Divide the paper plate or the picture of the paper plate into 4 or 6 or 8 pizza slices.  Pick one part to the be the first part of the story, then draw pictures to show what happened in the story.  
+
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 40:}{\rtlch\fcs1 \af1\afs24 \ltrch\fcs0 \f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1  \hich\af1\dbch\af31505\loch\f1  }{\rtlch\fcs1 \ab\af1\afs24 
+\ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Snow White and the Seven Dwarfs}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (40-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K  \tab             
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 Have you ever seen a looking glass mirror that could talk?  In the beginning who did the looking glass mirror say was the fairest, \hich\af1\dbch\af31505\loch\f1 
+most beautiful in the land? What did the mirror say that made the queen mad and angry?  What would you imagine a looking glass mirror might say if it were talking to you?  [JG]
+\par 
+\par 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (40-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K\tab \tab 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Draw or \hich\af1\dbch\af31505\loch\f1 
+color a picture of Snow White and then cut the picture into 4 or 5 or 6 puzzle pieces. Look at the pieces carefully and put the puzzle back together.   
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (40-3)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K, 1  \tab              
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 How did Snow White lo\hich\af1\dbch\af31505\loch\f1 
+ok?  Was anyone jealous of her beauty?  How did the queen decide to get rid of her?  Did the huntsmen try to hurt her?  Why not?  Where did she hide?  Who took care of her?  Did she take care of them too?  What happened to Snow White when the dwarfs left 
+\hich\af1\dbch\af31505\loch\f1 t\hich\af1\dbch\af31505\loch\f1 
+o go to work?  How many times did the queen change into someone else to trick Snow White?  On the third try, what happened to Snow White?  Who rescued her?  How did she come back to life?  What happened to Snow White and the Prince? 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 41:  Cinderella\tab }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab \tab \tab \tab 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (41-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K \tab             
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sb240\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0\pararsid7420072 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 How was Cinderella\loch\af1\dbch\af31505\hich\f1 
+\rquote \hich\af1\dbch\af31505\loch\f1 s }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid7420072 \hich\af1\dbch\af31505\loch\f1 behavior different from how her\hich\af1\dbch\af31505\loch\f1  \hich\af1\dbch\af31505\loch\f1 s}{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 tep-sisters behaved?  Do you think the prince loved Cinderella because she wore a pretty dress at the ball or because he unde\hich\af1\dbch\af31505\loch\f1 
+rstood what a wonderful person she is?  When the prince finally found Cinderella again at the end of the story she was wearing rags and he asked her to marry him.  Do you think he loved her as much then as he did when she was wearing a pretty dress?  Woul
+\hich\af1\dbch\af31505\loch\f1 d\hich\af1\dbch\af31505\loch\f1  you rather have somebody like you because of how you dress or because of what kind of person you are?}{\field{\*\fldinst {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1 ADVANCE \\d 12}}{\fldrslt }}\sectd \ltrsect\lndscpsxn\pgwsxn12240\pghsxn7920\linex0\headery1440\footery1440\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (
+}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid7420072 
+\par }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 41-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab \hich\af1\dbch\af31505\loch\f1 Can you do it? \tab \tab Grade: K, 1  \tab             
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Cinderella has a stepmother and a fairy godmo\hich\af1\dbch\af31505\loch\f1 
+ther. In what ways are the two women the same?  How are they different?  First, pretend to be the stepmother and act like her.  Then, act like the fairy godmother. See if your parents or a friend can tell which one you are acting like. 
+\par \hich\af1\dbch\af31505\loch\f1 Can you do it?  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (41\hich\af1\dbch\af31505\loch\f1 -3)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab \tab 
+\hich\af1\dbch\af31505\loch\f1 Grade K, 1
+\par \hich\af1\dbch\af31505\loch\f1 Did Cinderella ever do something her stepmother or stepsisters told her not to?  Did she ever do something the Fairy Godmother told her not to?  How do you think the story would be different if Cinderella
+\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 s stepmother or one of her step-sis\hich\af1\dbch\af31505\loch\f1 ters told the story?
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 42:  Tom Thumb}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \tab 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (42-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab      Grade: PreK, K                              
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+In the story, Tom Thumb grows no bigger than a thumb.  Look around your room or house. What things ar\hich\af1\dbch\af31505\loch\f1 e smaller than Tom Thumb would be? What things are bigger than Tom Thumb would be?   Put your thumb or a grownup
+\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 s thumb against a piece of paper to mark how big the thumb is.  Use your paper\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 
+s thumb marks to measure items in your home. 
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (42-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do \hich\af1\dbch\af31505\loch\f1 it? \tab      Grade: K, 1                                    
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Use a ruler to measure your thumb or a grownup\loch\af1\dbch\af31505\hich\f1 
+\rquote \hich\af1\dbch\af31505\loch\f1 s thumb then measure items you find in your home.  Make a T-Chart to show what Tom Thumb would be bigger than a\hich\af1\dbch\af31505\loch\f1 
+nd what he would be shorter than.  What kind of problems would you have in your home if you were as small as Tom Thumb?
+\par }\pard \ltrpar\ql \fi-720\li720\ri0\sa199\sl275\slmult1\widctlpar\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (42-3)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab 
+\hich\af1\dbch\af31505\loch\f1 Can you do it? \tab      \tab Grade: 1        \tab             
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Make a list of the 6 or 7 most important characters in the story.  Except for Tom, who do you think is the most important character?  Who are your favorite two characters?  Draw a picture your two favorite characters and of what they
+\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 re doing in the story.\hich\af1\dbch\af31505\loch\f1  
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 43:   Sleeping Beauty}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Can you do it?  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (43-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid7420072\charrsid7420072 
+\hich\af1\dbch\af31505\loch\f1  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid7420072 \hich\af1\dbch\af31505\loch\f1         \hich\af1\dbch\af31505\loch\f1 Grade K, 1}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid7420072 \tab \tab \tab \tab \tab }{
+\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Grade: K,1              }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid7420072 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 What happened on Sleeping Beauty\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 s 16}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\super\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1 th}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1  birthday?  Who made the final wish that would save her instead of killing her?  What did Sleeping Beauty prick her f
+\hich\af1\dbch\af31505\loch\f1 inger on?  How long did she sleep?  Did other people in the kingdom sleep like her?  Who made them sleep?  Who found her?  With all the thorns around the castle, how did the prince get to the castle?  How did the story end? 
+
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 44:  The Fisherman and His Wife}{\rtlch\fcs1 \ab\af1 
+\ltrch\fcs0 \b\f1\insrsid1669733 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 (44-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1        Can you do it?         Grade: K                 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid7420072 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Have you ever been fishing? What would you do if you caught a talking fish? What would you say to the talking fish? If you \hich\af1\dbch\af31505\loch\f1 
+could ask a talking fish for a gift, what would you ask for?  Draw a picture of the fisherman and the great big fish, or draw a picture of what you would ask the fish to give you or do for you. 
+\par 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (44-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1             Can you do it?    Grade: K               \hich\af1\dbch\af31505\loch\f1        }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid7420072 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Tell about the three most important characters in the story?  How are they alike and how are they different?  Which character did you like the most?  Why?  Which character do you think changed most during the story\hich\af1\dbch\af31505\loch\f1 
+?  Why do you think so? 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 45:}{\rtlch\fcs1 \af1\afs24 \ltrch\fcs0 \f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1   }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 
+\b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Jack and the Beanstalk}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Can you do it?  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (45-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1      Grade: K                                
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Did Jack follow the directions that his mama gave him? Why not?  \hich\af1\dbch\af31505\loch\f1 
+Did he do what the strange man told him to do with the beans?  Why not?  Did he do what he was told to do when he was in the giant\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 
+s castle?  Why not?  Did he do what the giant told him to do?  Why not?  Do you always listen to adults and do what they say \hich\af1\dbch\af31505\loch\f1 when they give directions?  
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 Can you do it?  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (45-2)}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1     }{\rtlch\fcs1 \af1 
+\ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Grade: K}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid7420072 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Draw and cut out a picture of Jack and a picture of the giant\loch\af1\dbch\af31505\hich\f1 \emdash \hich\af1\dbch\af31505\loch\f1 
+or with some play dough or clay make a Jack and a giant.  With a \hich\af1\dbch\af31505\loch\f1 
+piece of string or a stick make a beanstalk.   Find a chair or table you can use to be the land above the clouds.  Using these retell the story and show what happened.  
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Can you do it?  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (45-3)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1      Grade: 1                  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Jack a\hich\af1\dbch\af31505\loch\f1 
+nd his mother were hungry.  What did she send him to do?  What did he come back with?  Was his mother happy with him?  What happened when she sent him the second time?  What did his mother do when he came back the second time?  After Jack climbed  the bea
+\hich\af1\dbch\af31505\loch\f1 n\hich\af1\dbch\af31505\loch\f1 stalk what did he find?  Was the giant\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 
+s wife kind to him?  What are the three things that Jack stole from the giant? What did the giant say every time he smelled Jack?   Did the giant try to get his things back?  What happened when Jack stole the harp?  H\hich\af1\dbch\af31505\loch\f1 
+ow did Jack get rid of the beanstalk?  Do you think Jack and his mother were happy ?  
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 46:  The Tinder Box}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Can you do it?  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (46-1)}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid7420072 
+\hich\af1\dbch\af31505\loch\f1             }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Grade: K              }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid7420072 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Name some of the magic things the tinder box did.  What would you do if\hich\af1\dbch\af31505\loch\f1 
+ you had a magic box that would give you whatever you ask for? What would you ask for? Decorate a box\loch\af1\dbch\af31505\hich\f1 \emdash \hich\af1\dbch\af31505\loch\f1 maybe a cereal box or a shoe box\loch\af1\dbch\af31505\hich\f1 \emdash 
+\hich\af1\dbch\af31505\loch\f1 and put in it pictures you cut out or draw or small toys or models of things you would ask for. 
+\par }\pard \ltrpar\ql \li0\ri0\sb240\sa199\sl275\slmult1\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Can you do it?  }{\rtlch\fcs1 \ab\af1 
+\ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (46-2)}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid7420072 \hich\af1\dbch\af31505\loch\f1                }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Gr
+\hich\af1\dbch\af31505\loch\f1 ade: K,1              }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid7420072 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Many characters in the story follow instructions, for example, the dogs, the prince, the soldier, or the princess.  Pick one of the characters and tell about the instructions that the character had to fol\hich\af1\dbch\af31505\loch\f1 
+low so that the fairy tale will end \loch\af1\dbch\af31505\hich\f1 \'93\hich\af1\dbch\af31505\loch\f1 happily ever after.\loch\af1\dbch\af31505\hich\f1 \'94\hich\af1\dbch\af31505\loch\f1    Think of something that you like to do
+\loch\af1\dbch\af31505\hich\f1 \emdash \hich\af1\dbch\af31505\loch\f1 something like play jacks, throw a frisbee, catch a grasshopper, make toast, draw a picture of a car, whistle, or something like that.  Give clear, good inst
+\hich\af1\dbch\af31505\loch\f1 ructions so that another student can do that activity correctly. 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sb240\sa199\sl275\slmult1\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 47:  The Pot of Pink Flowers}
+{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid7420072 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Can you do it?  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (47-1)}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid7420072 
+\hich\af1\dbch\af31505\loch\f1           }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Grade: PreK, K}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid7420072\charrsid7420072 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+Felicia truly acts like a good princess. She forgives her brother, Bruno, even though he wa\hich\af1\dbch\af31505\loch\f1 
+s so mean to her. After all, he would not let her sit on his stools or eat any of his food. He stole her pink flowers. How do you feel about this? Should Felicia have forgiven him? Why or why not?  
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 48:   The Princess on the Glass Hill}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Can you do it?  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (48\hich\af1\dbch\af31505\loch\f1 -1)}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\f1\insrsid7420072 \hich\af1\dbch\af31505\loch\f1      }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Grade: 1}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid7420072 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 The farmer\loch\af1\dbch\af31505\hich\f1 \rquote 
+\hich\af1\dbch\af31505\loch\f1 s three sons were each sent to the barn to watch over the crops, but the first two were very afraid.  The youngest son, Cinderlad, heard the noise, and went outside three times to find a horse.  How were
+\hich\af1\dbch\af31505\loch\f1 
+ the horses different?  Did his two brothers believe him?  When the king offered his daughter in marriage, men had to ride up a glass hill to get a golden apple from the princess?  Could the two older brothers do it?  Who do you think the knight in copper
+\hich\af1\dbch\af31505\loch\f1  \hich\af1\dbch\af31505\loch\f1 armor really was? 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 49: The Brave Little Tailor}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Can you do it?  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (49-1)}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid7420072 
+\hich\af1\dbch\af31505\loch\f1     }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Grade: K}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid7420072 \hich\af1\dbch\af31505\loch\f1    }{\rtlch\fcs1 \af1 \ltrch\fcs0 
+\f1\insrsid1669733 
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 A tailor is someone who makes clothes for men to wear. When the little tailor said he got seven with one stroke what did he \hich\af1\dbch\af31505\loch\f1 
+mean? Do you think that the other characters in the story would think he was brave if they knew what he had really gotten with one stroke?  Did the tailor succeed because he was strong or handsome or rich or because he was clever and tricky and smart?  Wh
+\hich\af1\dbch\af31505\loch\f1 a\hich\af1\dbch\af31505\loch\f1 t did the tailor do that was clever and tricky and smart?  
+\par {\*\bkmkstart _GoBack}{\*\bkmkend _GoBack}
+\par }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 50:}{\rtlch\fcs1 \af1\afs24 \ltrch\fcs0 \f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1   }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 
+\b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Hansel and Gretel}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Can you do it?  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (50-1)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\hich\af1\dbch\af31505\loch\f1 Grade: K            
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid7420072 
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Hansel and Gretel were lost and far from home. The witch was a \hich\af1\dbch\af31505\loch\f1 
+stranger. What have you been told about talking with strangers?  Why do you think the witch made a house out of gingerbread and candy?  What did the witch want to do with Hansel and Gretel?  Are Hansel and Gretel and the witch all smart and clever and tri
+\hich\af1\dbch\af31505\loch\f1 c\hich\af1\dbch\af31505\loch\f1 ky?  Which of the three do you think was  smartest and most clever?  Why do you think so?
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Can you do it?  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (50-2)}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid7420072 \hich\af1\dbch\af31505\loch\f1      }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Grade: K, 1            
+
+\par \hich\af1\dbch\af31505\loch\f1 Where did Hansel and Gretel live?  Who did they live with?  Why were they sent to the forest? \hich\af1\dbch\af31505\loch\f1 
+Why were they sent in there three times?  How were they able to find their way home?  What did they find after they got lost in the woods the last time?  Who did they find in the little house?  What was it made of? Where were they put in the house?  What 
+\hich\af1\dbch\af31505\loch\f1 d\hich\af1\dbch\af31505\loch\f1 id the witch plan to do with the two children?  How did they trick her?  How did they escape?  What did they take home to their father?  Was he glad to see them?  
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 51:}{\rtlch\fcs1 \af1\afs24 \ltrch\fcs0 
+\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1   }{\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 How Anansi the Spider Got His Long Legs}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 
+\par }\pard \ltrpar\ql \li0\ri0\sa199\sl275\slmult1\widctlpar\tx0\tx7020\tx7200\tx7920\tx8640\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 
+\par \hich\af1\dbch\af31505\loch\f1 Can you do it?  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (51-1)}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid7420072 \hich\af1\dbch\af31505\loch\f1    }{\rtlch\fcs1 \af1 
+\ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 Grade: K
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid7420072 \hich\af1\dbch\af31505\loch\f1 H}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 
+ow many toes did Anansi have at the beginning?  How many legs did he have at the end?  If you \hich\af1\dbch\af31505\loch\f1 fold down your thumbs and stretch out your fingers, how many fingers do you show?  What happened that made Anansi
+\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 s toes turn into legs?  What did Anansi say or do that he thought was smart and clever and tricky?  Did he really trick his friends?  Who do y\hich\af1\dbch\af31505\loch\f1 
+ou think was smarter, Anansi or his friends?  At the end of the story what was bigger, Anansi\loch\af1\dbch\af31505\hich\f1 \rquote \hich\af1\dbch\af31505\loch\f1 s head or his tummy?
+\par 
+\par \hich\af1\dbch\af31505\loch\f1 Can you do it?  }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\f1\insrsid1669733 \hich\af1\dbch\af31505\loch\f1 (51-2)}{\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid1669733 \tab \tab \hich\af1\dbch\af31505\loch\f1 Grade: 1
+\par \hich\af1\dbch\af31505\loch\f1 Which animal cooked carrot stew?  Which animal cooked beans?  Which animal gathered nuts?  Which animal col\hich\af1\dbch\af31505\loch\f1 
+lected strawberries?  Which animal cooked corn on the cob?  Which animal baked chocolate chip cookies?  Which animal cooked hot dogs?  Which animal made rhubarb cobbler pie?  What do you think were the most important differences between Anansi and his fri
+\hich\af1\dbch\af31505\loch\f1 e\hich\af1\dbch\af31505\loch\f1 nds?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1669733 
+\par }{\*\themedata 504b030414000600080000002100828abc13fa0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb6ac3301045f785fe83d0b6d8
+72ba28a5d8cea249777d2cd20f18e4b12d6a8f843409c9df77ecb850ba082d74231062ce997b55ae8fe3a00e1893f354e9555e6885647de3a8abf4fbee29bbd7
+2a3150038327acf409935ed7d757e5ee14302999a654e99e393c18936c8f23a4dc072479697d1c81e51a3b13c07e4087e6b628ee8cf5c4489cf1c4d075f92a0b
+44d7a07a83c82f308ac7b0a0f0fbf90c2480980b58abc733615aa2d210c2e02cb04430076a7ee833dfb6ce62e3ed7e14693e8317d8cd0433bf5c60f53fea2fe7
+065bd80facb647e9e25c7fc421fd2ddb526b2e9373fed4bb902e182e97b7b461e6bfad3f010000ffff0300504b030414000600080000002100a5d6a7e7c00000
+00360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4fc7060abb08
+84a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b63095120f88d94fbc
+52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462a1a82fe353
+bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f7468656d652f7468
+656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b4b0d592c9c
+070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b4757e8d3f7
+29e245eb2b260a0238fd010000ffff0300504b03041400060008000000210096b5ade296060000501b0000160000007468656d652f7468656d652f7468656d65
+312e786d6cec594f6fdb3614bf0fd87720746f6327761a07758ad8b19b2d4d1bc46e871e698996d850a240d2497d1bdae38001c3ba618715d86d87615b8116d8
+a5fb34d93a6c1dd0afb0475292c5585e9236d88aad3e2412f9e3fbff1e1fa9abd7eec70c1d1221294fda5efd72cd4324f1794093b0eddd1ef62fad79482a9c04
+98f184b4bd2991deb58df7dfbb8ad755446282607d22d771db8b944ad79796a40fc3585ee62949606ecc458c15bc8a702910f808e8c66c69b9565b5d8a314d3c
+94e018c8de1a8fa94fd05093f43672e23d06af89927ac06762a049136785c10607758d9053d965021d62d6f6804fc08f86e4bef210c352c144dbab999fb7b471
+7509af678b985ab0b6b4ae6f7ed9ba6c4170b06c788a705430adf71bad2b5b057d03606a1ed7ebf5babd7a41cf00b0ef83a6569632cd467faddec9699640f671
+9e76b7d6ac355c7c89feca9cccad4ea7d36c65b258a206641f1b73f8b5da6a6373d9c11b90c537e7f08dce66b7bbeae00dc8e257e7f0fd2badd5868b37a088d1
+e4600ead1ddaef67d40bc898b3ed4af81ac0d76a197c86826828a24bb318f3442d8ab518dfe3a20f000d6458d104a9694ac6d88728eee2782428d60cf03ac1a5
+193be4cbb921cd0b495fd054b5bd0f530c1931a3f7eaf9f7af9e3f45c70f9e1d3ff8e9f8e1c3e3073f5a42ceaa6d9c84e5552fbffdeccfc71fa33f9e7ef3f2d1
+17d57859c6fffac327bffcfc793510d26726ce8b2f9ffcf6ecc98baf3efdfdbb4715f04d814765f890c644a29be408edf3181433567125272371be15c308d3f2
+8acd249438c19a4b05fd9e8a1cf4cd296699771c393ac4b5e01d01e5a30a787d72cf1178108989a2159c77a2d801ee72ce3a5c545a6147f32a99793849c26ae6
+6252c6ed637c58c5bb8b13c7bfbd490a75330f4b47f16e441c31f7184e140e494214d273fc80900aedee52ead87597fa824b3e56e82e451d4c2b4d32a423279a
+668bb6690c7e9956e90cfe766cb37b077538abd27a8b1cba48c80acc2a841f12e698f13a9e281c57911ce298950d7e03aba84ac8c154f8655c4f2af074481847
+bd804859b5e696007d4b4edfc150b12addbecba6b18b148a1e54d1bc81392f23b7f84137c2715a851dd0242a633f900710a218ed715505dfe56e86e877f0034e
+16bafb0e258ebb4faf06b769e888340b103d3311da9750aa9d0a1cd3e4efca31a3508f6d0c5c5c398602f8e2ebc71591f5b616e24dd893aa3261fb44f95d843b
+5974bb5c04f4edafb95b7892ec1108f3f98de75dc97d5772bdff7cc95d94cf672db4b3da0a6557f70db629362d72bcb0431e53c6066acac80d699a6409fb44d0
+8741bdce9c0e4971624a2378cceaba830b05366b90e0ea23aaa241845368b0eb9e2612ca8c742851ca251ceccc70256d8d87265dd96361531f186c3d9058edf2
+c00eafe8e1fc5c509031bb4d680e9f39a3154de0accc56ae644441edd76156d7429d995bdd88664a9dc3ad50197c38af1a0c16d684060441db02565e85f3b966
+0d0713cc48a0ed6ef7dedc2dc60b17e92219e180643ed27acffba86e9c94c78ab90980d8a9f0913ee49d62b512b79626fb06dccee2a432bbc60276b9f7dec44b
+7904cfbca4f3f6443ab2a49c9c2c41476dafd55c6e7ac8c769db1bc399161ee314bc2e75cf8759081743be1236ec4f4d6693e5336fb672c5dc24a8c33585b5fb
+9cc24e1d4885545b58463634cc5416022cd19cacfccb4d30eb45296023fd35a458598360f8d7a4003bbaae25e331f155d9d9a5116d3bfb9a95523e51440ca2e0
+088dd844ec6370bf0e55d027a012ae264c45d02f708fa6ad6da6dce29c255df9f6cae0ec38666984b372ab5334cf640b37795cc860de4ae2816e95b21be5ceaf
+8a49f90b52a51cc6ff3355f47e0237052b81f6800fd7b802239daf6d8f0b1571a8426944fdbe80c6c1d40e8816b88b8569082ab84c36ff0539d4ff6dce591a26
+ade1c0a7f669880485fd484582903d284b26fa4e2156cff62e4b9265844c4495c495a9157b440e091bea1ab8aaf7760f4510eaa69a6465c0e04ec69ffb9e65d0
+28d44d4e39df9c1a52ecbd3607fee9cec7263328e5d661d3d0e4f62f44acd855ed7ab33cdf7bcb8ae889599bd5c8b3029895b6825696f6af29c239b75a5bb1e6
+345e6ee6c28117e73586c1a2214ae1be07e93fb0ff51e133fb65426fa843be0fb515c187064d0cc206a2fa926d3c902e907670048d931db4c1a44959d366ad93
+b65abe595f70a75bf03d616c2dd959fc7d4e6317cd99cbcec9c58b34766661c7d6766ca1a9c1b327531486c6f941c638c67cd22a7f75e2a37be0e82db8df9f30
+254d30c1372581a1f51c983c80e4b71ccdd28dbf000000ffff0300504b0304140006000800000021000dd1909fb60000001b010000270000007468656d652f74
+68656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4350d363f24
+51eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d262452282e3198
+720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe514173d9850528
+a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d0014000600080000002100828abc13fa0000001c0200001300000000000000000000000000
+000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b000000000000000000000000
+002b0100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c00000000000000000000000000140200007468
+656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d001400060008000000210096b5ade296060000501b000016000000000000000000
+00000000d10200007468656d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b010000270000000000
+00000000000000009b0900007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000960a00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax267\lsdlockeddef0\lsdsemihiddendef1\lsdunhideuseddef1\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 3;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;
+\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;
+\lsdpriority39 \lsdlocked0 toc 1;\lsdpriority39 \lsdlocked0 toc 2;\lsdpriority39 \lsdlocked0 toc 3;\lsdpriority39 \lsdlocked0 toc 4;\lsdpriority39 \lsdlocked0 toc 5;\lsdpriority39 \lsdlocked0 toc 6;\lsdpriority39 \lsdlocked0 toc 7;
+\lsdpriority39 \lsdlocked0 toc 8;\lsdpriority39 \lsdlocked0 toc 9;\lsdqformat1 \lsdpriority35 \lsdlocked0 caption;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdpriority1 \lsdlocked0 Default Paragraph Font;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority59 \lsdlocked0 Table Grid;\lsdunhideused0 \lsdlocked0 Placeholder Text;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;\lsdunhideused0 \lsdlocked0 Revision;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdpriority37 \lsdlocked0 Bibliography;\lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;}}{\*\datastore 010500000200000018000000
+4d73786d6c322e534158584d4c5265616465722e352e3000000000000000000000060000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffffec69d9888b8b3d4c859eaf6cd158be0f000000000000000000000000b0f8
+17593ab0d101feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000105000000000000}}

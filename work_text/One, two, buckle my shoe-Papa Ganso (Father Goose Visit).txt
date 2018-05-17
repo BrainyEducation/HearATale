@@ -1,0 +1,5 @@
+﻿Uno, dos, ata mi zapato,<br>
+Tres, cuatro, llama a la puerta,<br>
+Cinco, seis, recoge los palos,<br>
+Siete, ocho, ponlos rectos,<br>
+Nueve, diez, una gallina grande y gorda.
