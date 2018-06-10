@@ -85,6 +85,28 @@ require_once ('functions2.php');
 			<img padding-right:5px; src="/images/alphabet/n.jpg"></a>
 			<a href="podcasting/alphabet/LetterO.mp4">
 			<img padding-right:5px; src="/images/alphabet/o.jpg"></a>
+			<a href="podcasting/alphabet/LetterP.mp4">
+			<img padding-right:5px; src="/images/alphabet/p.jpg"></a>
+			<a href="podcasting/alphabet/LetterQ.mp4">
+			<img padding-right:5px; src="/images/alphabet/q.jpg"></a>
+			<a href="podcasting/alphabet/LetterR.mp4">
+			<img padding-right:5px; src="/images/alphabet/r.jpg"></a>
+			<a href="podcasting/alphabet/LetterS.mp4">
+			<img padding-right:5px; src="/images/alphabet/s.jpg"></a>
+			<a href="podcasting/alphabet/LetterT.mp4">
+			<img padding-right:5px; src="/images/alphabet/t.jpg"></a>
+			<a href="podcasting/alphabet/LetterU.mp4">
+			<img padding-right:5px; src="/images/alphabet/u.jpg"></a>
+			<a href="podcasting/alphabet/LetterV.mp4">
+			<img padding-right:5px; src="/images/alphabet/v.jpg"></a>
+			<a href="podcasting/alphabet/LetterW.mp4">
+			<img padding-right:5px; src="/images/alphabet/w.jpg"></a>
+			<a href="podcasting/alphabet/LetterX.mp4">
+			<img padding-right:5px; src="/images/alphabet/x.jpg"></a>
+			<a href="podcasting/alphabet/LetterY.mp4">
+			<img padding-right:5px; src="/images/alphabet/y.jpg"></a>
+			<a href="podcasting/alphabet/LetterZ.mp4">
+			<img padding-right:5px; src="/images/alphabet/z.jpg"></a>
 			</legend></fieldset></div>
 
 		</div>
