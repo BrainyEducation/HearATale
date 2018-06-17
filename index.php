@@ -44,10 +44,11 @@ require_once ('functions2.php');
 			</div>
 
 			<?php } ?>
-			<h3 style="color: red"> Alert:  We recently upgraded our hosting plan and some files were lost in ‘migration’.  We will restore the missing files as soon as possible.</h3>
+			<h5 style="color: red"> Alert:  We recently upgraded our hosting plan and some files were lost in ‘migration’.  We will restore the missing files as soon as possible.</h5>
 			<fieldset><legend>
-					<a href='alphabet.php'><img style ='max-width: 100%' src='images/alphabet_letters1.png' align='right'></a>
-					<a href='children.php'><img style='height:50px' src='images/section_icons/Children.png'>Children's Section</a>
+					<a href='children.php'><img style='height:100px' src='images/section_icons/Children.png'>Children's Section</a>
+					<a href='alphabet.php'><img style ='height:100px' src='images/alphabet_letters1.png' align="right"></a>
+					<a href='piglatin.php'><img style ='height:100px' src='images/Secret_Stuff_Pig_Latin_logo.png' align="right"></a>
 			</legend></fieldset>
 			<div style='width:100%; overflow:hidden; margin-left:0 auto; margin-right: 0 auto;'>
 			<?php	twoRowTitleCarousel("Children"); ?>

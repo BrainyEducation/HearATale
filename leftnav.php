@@ -36,6 +36,7 @@
     <img src="images/supporters/communityfoundation.png" style="width:80%"; padding:5px;">
     <a href="http://watson-brown.org/"> <img src="images/supporters/watson%20brown.png" style="width:80%; padding:5px;"> </a>
     <a href="http://www.potashcorp.com/"> <img src="images/supporters/potashcorp.png" style="width:80%; padding:5px;"> </a>
+    <a href="https://www.dollargeneral.com/"> <img src="images/supporters/dollargeneral.png" style="width:80%; padding:5px; height:70px"> </a>
     
 </div>
 
