@@ -74,8 +74,8 @@ if(sizeof($categoryExploded) === 3){
 				echo "<div style='padding-left: 105px; padding-bottom: 5px;'>";
 				echo "<div style='float:left;'>";
                                 if($work['FileLocation'] === ".txt") echo "<a href='writtentext.php?url=" . $work['FileLocation'] . "&cat=" . $work['Category'] . "'>";
-                                else if($superCat === "World Languages" || $superCat == "Spanish") echo "<a href='writtenvideo.php?url=" . $work['FileLocation'] . "&cat=" . $work['Category'] . "'>";
-				else if($work['FileLocation'] != "") echo "<a href='video.php?url=" . $work['FileLocation'] . "&cat=" . $work['Category'] . "'>";
+                                else if($superCat === "World Languages" || $superCat == "Spanish") echo "<a href='writtenvideo.php?url=" . $work['FileLocation'] . "&cat=" . $work['Category'] . "&youtubeurl=" . $work['URL'] . "'>";
+				else if($work['FileLocation'] != "") echo "<a href='video.php?url=" . $work['FileLocation'] . "&cat=" . $work['Category'] . "&youtubeurl=" . $work['URL'] . "'>";
 				echo '<img style="height: 135px; width: auto; padding-right: 5px;" src="Thumbnails/' . str_replace("\\", "/", $work['ThumbnailImage']) . '">';
 				echo "</div>";
 				echo "<div style='width:600px; height: 135px; display: table-cell; vertical-align: middle;'>";

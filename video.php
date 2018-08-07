@@ -2,6 +2,7 @@
 require_once ('functions2.php');
 
 $url = $_GET['url'];
+$youtubeurl = $_GET['youtubeurl'];
 $sourceCategory = $_GET['cat'];
 
 $play = NULL;
@@ -118,7 +119,7 @@ if($url != ""){
 
 				api.bind("finish", function() {
 					<?php if($nextVideo != NULL){ ?>
-					   window.location.href = "video.php?url=<?php echo $nextVideo['FileLocation'];?>&cat=<?php echo $sourceCategory;?>"
+					   window.location.href = "video.php?url=<?php echo $nextVideo['FileLocation'];?>&cat=<?php echo $sourceCategory;?>&youtubeurl=<?php echo $nextVideo['URL'];?>"
 					<?php } ?>
 
 				});
@@ -194,19 +195,45 @@ if($url != ""){
 		<?php } ?>
 
 		<!--<div data-swf="//releases.flowplayer.org/6.0.5/flowplayer.swf"-->
-                <div data-swf="//releases.flowplayer.org/7.0.2/flowplayer.swf"
+		<!-- THIS IS THE OLD FLOWPLAYER CODE, DEPRECATED 7/28/18 -->
+                <!--<div data-swf="//releases.flowplayer.org/7.0.2/flowplayer.swf"
 		class="flowplayer fixed-controls no-toggle play-button color-light"
 		data-ratio="0.5625" data-embed="false">
-			<?php if(substr($url, -4) === ".mp3"){ ?>
+			<?php/* if(substr($url, -4) === ".mp3"){ */?>
 			<audio controls preload="auto">
 				<source type="audio/mp3" src="podcasting/<?php echo $url;	?>" >
 			</audio>
-			<?php } else { ?>
+			<?php/* } else { */?>
 			<video preload="auto">
 				<source type="video/mp4" src="podcasting/<?php echo $url;	?>"/>
 			</video>
-			<?php } ?>
-		</div>
+			<?php/* } */?>
+		</div>-->
+		<?php
+			if ($youtubeurl == "") {
+				$flowplayer_prefix = '<div data-swf="//releases.flowplayer.org/7.0.2/flowplayer.swf"
+				class="flowplayer fixed-controls no-toggle play-button color-light"
+				data-ratio="0.5625" data-embed="false">';
+				
+				$flowplayer_suffix = "";
+
+				if(substr($url, -4) === ".mp3"){
+					$flowplayer_suffix = '<audio controls preload="auto">
+					<source type="audio/mp3" src="podcasting/' . $url . '" >
+					</audio>';
+				} else {
+					$flowplayer_suffix = '<video controls preload="auto">
+					<source type="video/mp4" src="podcasting/' . $url . '" >
+					</video>';
+				}
+
+				echo $flowplayer_prefix . $flowplayer_suffix;
+			} else {
+				echo '<iframe width="560" height="315"
+				src="' . str_replace("watch?v=", "embed/", $youtubeurl) . '?autoplay=1&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+				</iframe>';
+			}
+		?>
 
 		<br><br><br>
 		<table style="width:80%;">
@@ -214,7 +241,7 @@ if($url != ""){
 				<td>
 				<?php
 					if($previousVideo != NULL){
-						echo "<a title='" . $previousVideo['Title'] . "' href='video.php?url=" . $previousVideo['FileLocation'] . "&cat=" . $sourceCategory . "'>
+						echo "<a title='" . $previousVideo['Title'] . "' href='video.php?url=" . $previousVideo['FileLocation'] . "&cat=" . $sourceCategory . "&youtubeurl=" . $previousVideo['URL'] . "'>
 						<img src='images/section_icons/arrow_left.png'></a>";
 					}
 				?>
@@ -226,7 +253,7 @@ if($url != ""){
 				<td>
 				<?php
 					if($nextVideo != NULL){
-						echo "<a title='" . $nextVideo['Title'] . "' href='video.php?url=" . $nextVideo['FileLocation'] . "&cat=" . $sourceCategory . "'>
+						echo "<a title='" . $nextVideo['Title'] . "' href='video.php?url=" . $nextVideo['FileLocation'] . "&cat=" . $sourceCategory . "&youtubeurl=" . $nextVideo['URL'] . "'>
 						<img src='images/section_icons/arrow_right.png'></a>";
 					}
 				?>

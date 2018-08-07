@@ -12,7 +12,7 @@ function readyHTML($text) {
 }
 
 function getDataFromSheet() {
-	$url = "https://docs.google.com/spreadsheet/pub?key=0AgqQsk5IC_NSdHI3MC03emJTSHMwbWVvRTFCTWt0blE&output=csv";
+	$url = "https://docs.google.com/spreadsheet/pub?key=1PiP0a6eV8Vnc8_WzOqMhXxHTVtj3PFk8-6fN3Q664I8&output=csv";
     $file = fopen($url, 'r');
 	$data = array();
 	fgetcsv($file, ","); //skip the first line
@@ -27,7 +27,8 @@ function getDataFromSheet() {
 		$work['Chapter'] = $col[9];
 		$work['ThumbnailImage'] = str_replace("\\", "/", $col[10]);
 		$work['Description'] = $col[11];
-                $work['Experiences'] = $col[12];
+		$work['Experiences'] = $col[12];
+		$work['URL'] = $col[14];
 		$category = "";
 		for($x = 2; $x <= 4; $x++){
 			if($col[$x] != ""){
