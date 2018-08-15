@@ -130,8 +130,8 @@ if($url != ""){
 
 			});
 		</script>
-
-
+		
+		<script src="http://www.youtube.com/player_api"></script>
 
 	</head>
 
@@ -229,9 +229,68 @@ if($url != ""){
 
 				echo $flowplayer_prefix . $flowplayer_suffix;
 			} else {
-				echo '<iframe width="560" height="315"
+				/*echo '<iframe width="560" height="315"
 				src="' . str_replace("watch?v=", "embed/", $youtubeurl) . '?autoplay=1&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-				</iframe>';
+				</iframe>';*/
+				echo "<div id='player'></div> <script>
+					var player, iframe;
+					var $ = document.querySelector.bind(document);
+					var fullscreen = false;
+					document.addEventListener('fullscreenchange', function() {
+						if (!document.fullscreenElement) fullscreen = !fullscreen;
+					  }, false);
+					  
+					  document.addEventListener('msfullscreenchange', function() {
+						if (!document.msFullscreenElement) fullscreen = !fullscreen;
+					  }, false);
+					  
+					  document.addEventListener('mozfullscreenchange', function() {
+						if (!document.mozFullScreen) fullscreen = !fullscreen;
+					  }, false);
+					  
+					  document.addEventListener('webkitfullscreenchange', function() {
+						if (!document.webkitIsFullScreen) fullscreen = !fullscreen;
+					  }, false);
+
+					function onYouTubePlayerAPIReady() {
+						player = new YT.Player('player', {
+						  width: '560',
+						  height: '315',
+						  playerVars: { 'autoplay': 1, 'controls': 1, 'rel': 0, 'frameborder': 0 },
+						  videoId: '" . substr($youtubeurl, strpos($youtubeurl, "=") + 1) . "',
+						  events: {
+							onReady: onPlayerReady,
+							onStateChange: onPlayerStateChange
+						  }
+						});
+					}
+			
+					// autoplay video
+					function onPlayerReady(event) {
+						event.target.playVideo();
+						iframe = $('#player');
+					}
+			
+					// when video ends
+					function onPlayerStateChange(event) {        
+						if(event.data === 0) {
+							if ($('#player').width <= 560) {
+								window.location.href = 'video.php?url=" . $nextVideo['FileLocation'] . "&cat=" . $sourceCategory . "&youtubeurl=" . $nextVideo['URL'] . "'
+							} else {
+								window.location.href = 'video.php?url=" . $nextVideo['FileLocation'] . "&cat=" . $sourceCategory . "&youtubeurl=" . $nextVideo['URL'] . "&fullscreen=' + fullscreen
+							}
+						}
+					}
+					
+					function playFullscreen (){
+						player.playVideo();//won't work on mobile
+		
+						var requestFullScreen = iframe.requestFullScreen || iframe.mozRequestFullScreen || iframe.webkitRequestFullScreen;
+						if (requestFullScreen) {
+							requestFullScreen.bind(iframe)();
+						}
+					}
+					</script>";
 			}
 		?>
 

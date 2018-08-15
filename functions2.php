@@ -135,7 +135,7 @@ function titleCarousel($category) {
 			continue;
 		}
 		echo '<div class="carousel_item">' . PHP_EOL;
-		echo '<a href="video.php?url=' . $work['FileLocation'] . '">' . PHP_EOL;
+		echo '<a href="video.php?url=' . $work['FileLocation'] . '&youtubeurl=' . $work['URL'] . '">' . PHP_EOL;
 		echo '<img src="Thumbnails/' . str_replace("\\", "/", $work['ThumbnailImage']) . '">' . PHP_EOL;
 		echo '<div class="carousel_text">' . readyHTML($work['Title']) . '</div>' . PHP_EOL;
 		echo '</a>' . PHP_EOL;
@@ -158,7 +158,7 @@ function twoRowTitleCarousel($category) {
 			continue;
 		}
 		echo '<div class="carousel_item">' . PHP_EOL;
-		echo '<a href="video.php?url=' . $work['FileLocation'] . '">' . PHP_EOL;
+		echo '<a href="video.php?url=' . $work['FileLocation'] . '&youtubeurl=' . $work['URL'] . '">' . PHP_EOL;
 		echo '<img src="Thumbnails/' . str_replace("\\", "/", $work['ThumbnailImage']) . '">' . PHP_EOL;
 		echo '<div class="carousel_text">' . readyHTML($work['Title']) . '</div>' . PHP_EOL;
 		echo '</a>' . PHP_EOL;
