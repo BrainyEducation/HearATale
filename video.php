@@ -294,12 +294,14 @@ if($url != ""){
 						if (requestFullScreen) {
 							requestFullScreen.bind(iframe)();
 						}
-					}
+					}		
+
 					</script>";
 			}
 		?>
 
 		<br><br><br>
+		<div class="sub-nav-menu">
 		<table style="width:80%;">
 			<tr align="center">
 				<td>
@@ -340,7 +342,7 @@ if($url != ""){
 				</td>
 			</tr>
 		</table>
-
+		</div>
 
 
 <br/>

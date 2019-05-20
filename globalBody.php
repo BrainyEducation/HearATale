@@ -8,7 +8,7 @@
 			<section id="content">
 				<div class="container">
 					<div class="mainbody">
-						<div class="row" style="margin-bottom:0; padding:20px 0; background:url('http://www.gru.edu/images/pagebg.png') repeat-x top transparent">
+						<div class="row" style="margin-bottom:0; padding:20px 0;">
 
 							<div class="span3">
 								<?php
