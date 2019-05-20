@@ -21,16 +21,33 @@ if($url != ""){
 	$previousVideo = NULL;
 	$nextVideo = NULL;
 
-	$otherParts = getAllPartsOutOfPool($play['Title'], getAllInCategory("Students and Adults"));
-	if(count($otherParts) > 1){
-		$thisPart = $play['Chapter'];
-		for($i = 0; $i < count($otherParts); $i++){
-			if($thisPart == $otherParts[$i]['Chapter']){
-				if($i != 0) $previousVideo = $otherParts[$i - 1];
-				if($i != (count($otherParts) - 1)) $nextVideo = $otherParts[$i + 1];
-			}
-		}
-	}
+    $otherParts = '';
+
+    // only works if the book has chapters
+    if( $play['Chapter'] != '' ) {
+        $otherParts = getAllPartsOutOfPool($play['Title'], getAllInCategory("Students and Adults"));
+        if(count($otherParts) > 1){
+            $thisPart = $play['Chapter'];
+            for($i = 0; $i < count($otherParts); $i++){
+                if($thisPart == $otherParts[$i]['Chapter']){
+                    if($i != 0) $previousVideo = $otherParts[$i - 1];
+                    if($i != (count($otherParts) - 1)) $nextVideo = $otherParts[$i + 1];
+                }
+            }
+        }
+    } else {
+    // will work for all works by the same author
+        $otherParts = getAllByAuthorOutOfPool_absolute($play['Author'], getAllInCategory("Students and Adults"));
+        if(count($otherParts) > 1){
+            $thisPart = $play['Title'];
+            for($i = 0; $i < count($otherParts); $i++){
+                if($thisPart == $otherParts[$i]['Title']){
+                    if($i != 0) $previousVideo = $otherParts[$i - 1];
+                    if($i != (count($otherParts) - 1)) $nextVideo = $otherParts[$i + 1];
+                }
+            }
+        }
+    }
     
     $fixedTitle = $play['Title'];
     $fixedTitle = str_replace(":", "~", $fixedTitle);
