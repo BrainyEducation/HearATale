@@ -298,3 +298,7 @@ p.source{
     height: 300px;
     overflow: scroll;
 }
+
+.flowplayer .fp-player {
+	padding-bottom: 39px;
+}

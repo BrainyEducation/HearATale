@@ -116,42 +116,44 @@ $isAudio = substr($url, -4) === ".mp3";
 				background-color: rgba(222, 222, 222, 0)
 			}
 		</style>
-		<script src="//releases.flowplayer.org/5.4.6/flowplayer.min.js"></script>
+		
+
+        <script src="http://releases.flowplayer.org/7.0.2/flowplayer.min.js"></script>
 		<!-- end flowplayer imports -->
 		<!-- flowplayer javascript customization -->
-		<script>
-			flowplayer(function(api, root) {
-
-				api.bind("ready", function() {
-
+        <script>
+            flowplayer(function(api, root) {
+                api.bind("ready", function() {
+					console.log('ready')
 					api.resume();
 
 				});
 
 				api.bind("finish", function() {
 
-					<?php
-					if($nextVideo != NULL){
-						if(strpos($sourceCategory, '/Stories') == FALSE){
-					?>
+					<?php if($nextVideo != NULL){ ?>
 
-					window.location.href = "video.php?url=<?php echo $nextVideo['FileLocation'];?>&cat=<?php echo $sourceCategory;?>"
+					window.location.href = "video.php?url=<?php echo $nextVideo['FileLocation'];?>&cat=<?php echo $sourceCategory;?>";
 
-					<?php
-						}
-					}
-					?>
+					<?php } ?>
 
 				});
 
+                api.bind("error", function (e, err) {
+                    window.setInterval(function(){ location.reload(); }, 3000);
+                });
+
 			});
+
+
 		</script>
-
-
 
 	</head>
 
 	<body>
+            
+
+
 
 		<?php
 		include ($_SERVER['DOCUMENT_ROOT'] . '/globalBody.php');
@@ -216,12 +218,12 @@ $isAudio = substr($url, -4) === ".mp3";
                     <img style='width=auto; height:auto; display: table; margin:0 auto;' src="Thumbnails/<?php echo $play['ThumbnailImage']; ?>">
                 </div>
             <?php } ?>
-
-            <div data-swf="//releases.flowplayer.org/5.4.6/flowplayer.swf"
+            
+            <div data-swf="//releases.flowplayer.org/7.0.2/flowplayer.swf"
             class="flowplayer fixed-controls no-toggle play-button color-light"
             data-ratio="0.5625" data-embed="false">
                 <?php if(substr($url, -4) === ".mp3"){ ?>
-                <audio controls preload="auto">
+                <audio class="audio-player" controls preload="auto" autoplay>
                     <source type="audio/mp3" src="podcasting/<?php echo $url;	?>" >
                 </audio>
                 <?php } else { ?>
@@ -230,6 +232,7 @@ $isAudio = substr($url, -4) === ".mp3";
                 </video>
                 <?php } ?>
             </div>
+
 
             <?php if($previousVideo != null || $nextVideo != null){ ?>
                 <?php if($isAudio){ ?>
@@ -303,7 +306,18 @@ $isAudio = substr($url, -4) === ".mp3";
         <?php } ?>
     
 
+
 <?php
 	} else error404('video');
 	include ($_SERVER['DOCUMENT_ROOT'] . '/globalFooter.php');
-?>
+?> 
+
+
+
+<script>
+    let player = document.querySelector('.audio-player')
+    player.addEventListener('ended', () => {
+        window.location.href = "ADULT_viewer.php?url=<?php echo $nextVideo['FileLocation'];?>"
+    });
+            
+</script>

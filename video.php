@@ -109,10 +109,13 @@ if($url != ""){
 		<!-- end flowplayer imports -->
 		<!-- flowplayer javascript customization -->
 		<script>
+		 console.log('init flow player')
+            console.log(flowplayer)
+
 			flowplayer(function(api, root) {
 
 				api.bind("ready", function() {
-
+					console.log('ready')
 					api.resume();
 
 				});
@@ -131,7 +134,6 @@ if($url != ""){
 			});
 		</script>
 		
-		<script src="http://www.youtube.com/player_api"></script>
 
 	</head>
 
@@ -200,7 +202,7 @@ if($url != ""){
 		class="flowplayer fixed-controls no-toggle play-button color-light"
 		data-ratio="0.5625" data-embed="false">
 			<?php/* if(substr($url, -4) === ".mp3"){ */?>
-			<audio controls preload="auto">
+			<audio controls autoplay preload="auto">
 				<source type="audio/mp3" src="podcasting/<?php echo $url;	?>" >
 			</audio>
 			<?php/* } else { */?>
@@ -218,21 +220,23 @@ if($url != ""){
 				$flowplayer_suffix = "";
 
 				if(substr($url, -4) === ".mp3"){
-					$flowplayer_suffix = '<audio controls preload="auto">
+					$flowplayer_suffix = '<audio controls autoplay preload="auto">
 					<source type="audio/mp3" src="podcasting/' . $url . '" >
 					</audio>';
 				} else {
 					$flowplayer_suffix = '<video controls preload="auto">
 					<source type="video/mp4" src="podcasting/' . $url . '" >
-					</video>';
+					</video> </div> <!-- end flow player -->';
 				}
 
 				echo $flowplayer_prefix . $flowplayer_suffix;
 			} else {
 				/*echo '<iframe width="560" height="315"
-				src="' . str_replace("watch?v=", "embed/", $youtubeurl) . '?autoplay=1&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+				src="' . str_replace("watch?v=", "embed/", $youtubeurl) . '?autoplay=1&rel=0&enablejsapi=1&origin=http://www.hearatale.org" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+
 				</iframe>';*/
 				echo "<div id='player'></div> <script>
+					console.log('page has yt video')
 					var player, iframe;
 					var $ = document.querySelector.bind(document);
 					var fullscreen = false;
@@ -252,7 +256,8 @@ if($url != ""){
 						if (!document.webkitIsFullScreen) fullscreen = !fullscreen;
 					  }, false);
 
-					function onYouTubePlayerAPIReady() {
+						window.onYouTubePlayerAPIReady = function() {
+						console.log('yt API player ready')
 						player = new YT.Player('player', {
 						  width: '560',
 						  height: '315',
@@ -342,6 +347,7 @@ if($url != ""){
 <br/>
 <br/>
 
+<script src="http://www.youtube.com/player_api"></script>
 <?php
 	} else error404('video');
 	include ($_SERVER['DOCUMENT_ROOT'] . '/globalFooter.php');

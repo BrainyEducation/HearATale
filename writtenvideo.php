@@ -2,6 +2,7 @@
 require_once ('functions2.php');
 
 $url = $_GET['url'];
+$youtubeurl = $_GET['youtubeurl'];
 $sourceCategory = $_GET['cat'];
 
 $play = NULL;
@@ -167,47 +168,139 @@ if($url != ""){
 
 	<?php	if($play != null){  ?>
 
-		<fieldset>
-			<legend>
-				<?php
-					if($sourceCategory != ""){
-						echo "<a href='subcategory.php?cat=" . $sourceCategory . "'>";
-						if(file_exists($thumbnailCat)) echo "<img src='" . $thumbnailCat . "' style='width:50px;'>";
-						if($categoryName == "Children") $categoryName = "Children's Section";
-						echo $categoryName . ": ";
-						echo "</a>";
-					}
-					echo "<i>" . $play['Title'] . "</i>";
-					if($play['Author'] != ""){
-						echo ' by ' . $play['Author'] . '';
-					}
-				?>
+<fieldset>
+	<legend>
+		<?php
+			if($sourceCategory != ""){
+				echo "<a href='subcategory.php?cat=" . $sourceCategory . "'>";
+				if(file_exists($thumbnailCat)) echo "<img src='" . $thumbnailCat . "' style='width:50px;'>";
+				if($categoryName == "Children") $categoryName = "Children's Section";
+				echo $categoryName . ": ";
+				echo "</a>";
+			}
+			echo "<i>" . $play['Title'] . "</i>";
+			if($play['Author'] != ""){
+				echo ' by ' . $play['Author'] . '';
+			}
+		?>
 
-			</legend>
-		</fieldset>
+	</legend>
+</fieldset>
 
-		<?php if(substr($url, -4) === ".mp3"){ ?>
-			<div style='width:300px; height:auto; background-color:#dddddd;'>
+<?php if(substr($url, -4) === ".mp3"){ ?>
+	<div style='width:300px; height:auto; background-color:#dddddd;'>
 
-				<img style='width=auto; height:auto; display: table; margin:0 auto;' src='Thumbnails/<?php echo $play['ThumbnailImage']; ?>'>
+		<img style='width=auto; height:auto; display: table; margin:0 auto;' src='Thumbnails/<?php echo $play['ThumbnailImage']; ?>'>
 
-			</div>
-		<?php } ?>
+	</div>
+<?php } ?>
 
-		<!--<div data-swf="//releases.flowplayer.org/5.4.6/flowplayer.swf"-->
-                <div data-swf="//releases.flowplayer.org/7.0.2/flowplayer.swf"
+<!--<div data-swf="//releases.flowplayer.org/6.0.5/flowplayer.swf"-->
+<!-- THIS IS THE OLD FLOWPLAYER CODE, DEPRECATED 7/28/18 -->
+		<!--<div data-swf="//releases.flowplayer.org/7.0.2/flowplayer.swf"
+class="flowplayer fixed-controls no-toggle play-button color-light"
+data-ratio="0.5625" data-embed="false">
+	<?php/* if(substr($url, -4) === ".mp3"){ */?>
+	<audio controls autoplay preload="auto">
+		<source type="audio/mp3" src="podcasting/<?php echo $url;	?>" >
+	</audio>
+	<?php/* } else { */?>
+	<video preload="auto">
+		<source type="video/mp4" src="podcasting/<?php echo $url;	?>"/>
+	</video>
+	<?php/* } */?>
+</div>-->
+<?php
+	if ($youtubeurl == "") {
+		$flowplayer_prefix = '<div data-swf="//releases.flowplayer.org/7.0.2/flowplayer.swf"
 		class="flowplayer fixed-controls no-toggle play-button color-light"
-		data-ratio="0.5625" data-embed="false">
-			<?php if(substr($url, -4) === ".mp3"){ ?>
-			<audio controls preload="auto">
-				<source type="audio/mp3" src="podcasting/<?php echo $url;	?>" >
-			</audio>
-			<?php } else { ?>
-			<video preload="auto">
-				<source type="video/mp4" src="podcasting/<?php echo $url;	?>"/>
-			</video>
-			<?php } ?>
-		</div>
+		data-ratio="0.5625" data-embed="false">';
+		
+		$flowplayer_suffix = "";
+
+		if(substr($url, -4) === ".mp3"){
+			$flowplayer_suffix = '<audio controls autoplay preload="auto">
+			<source type="audio/mp3" src="podcasting/' . $url . '" >
+			</audio>';
+		} else {
+			$flowplayer_suffix = '<video controls preload="auto">
+			<source type="video/mp4" src="podcasting/' . $url . '" >
+			</video> </div> <!-- end flow player -->';
+		}
+
+		echo $flowplayer_prefix . $flowplayer_suffix;
+	} else {
+		/*echo '<iframe width="560" height="315"
+		src="' . str_replace("watch?v=", "embed/", $youtubeurl) . '?autoplay=1&rel=0&enablejsapi=1&origin=http://www.hearatale.org" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+
+		</iframe>';*/
+		echo "<div id='player'></div> <script>
+			console.log('page has yt video')
+			var player, iframe;
+			var $ = document.querySelector.bind(document);
+			var fullscreen = false;
+			document.addEventListener('fullscreenchange', function() {
+				if (!document.fullscreenElement) fullscreen = !fullscreen;
+			  }, false);
+			  
+			  document.addEventListener('msfullscreenchange', function() {
+				if (!document.msFullscreenElement) fullscreen = !fullscreen;
+			  }, false);
+			  
+			  document.addEventListener('mozfullscreenchange', function() {
+				if (!document.mozFullScreen) fullscreen = !fullscreen;
+			  }, false);
+			  
+			  document.addEventListener('webkitfullscreenchange', function() {
+				if (!document.webkitIsFullScreen) fullscreen = !fullscreen;
+			  }, false);
+
+				window.onYouTubePlayerAPIReady = function() {
+				console.log('yt API player ready')
+				player = new YT.Player('player', {
+				  width: '560',
+				  height: '315',
+				  playerVars: { 'autoplay': 1, 'controls': 1, 'rel': 0, 'frameborder': 0 },
+				  videoId: '" . substr($youtubeurl, strpos($youtubeurl, "=") + 1) . "',
+				  events: {
+					onReady: onPlayerReady,
+					onStateChange: onPlayerStateChange
+				  }
+				});
+			}
+	
+			// autoplay video
+			function onPlayerReady(event) {
+				event.target.playVideo();
+				iframe = $('#player');
+			}
+	
+			// when video ends
+			function onPlayerStateChange(event) {        
+				if(event.data === 0) {
+					if ($('#player').width <= 560) {
+						window.location.href = 'video.php?url=" . $nextVideo['FileLocation'] . "&cat=" . $sourceCategory . "&youtubeurl=" . $nextVideo['URL'] . "'
+					} else {
+						window.location.href = 'video.php?url=" . $nextVideo['FileLocation'] . "&cat=" . $sourceCategory . "&youtubeurl=" . $nextVideo['URL'] . "&fullscreen=' + fullscreen
+					}
+				}
+			}
+			
+			function playFullscreen (){
+				player.playVideo();//won't work on mobile
+
+				var requestFullScreen = iframe.requestFullScreen || iframe.mozRequestFullScreen || iframe.webkitRequestFullScreen;
+				if (requestFullScreen) {
+					requestFullScreen.bind(iframe)();
+				}
+			}		
+
+			</script>";
+	}
+?>
+
+
+
 
 
 <?php
@@ -275,6 +368,7 @@ if($url != ""){
 <br/>
 <br/>
 
+<script src="http://www.youtube.com/player_api"></script>
 <?php
 	} else error404('video');
 	include ($_SERVER['DOCUMENT_ROOT'] . '/globalFooter.php');
