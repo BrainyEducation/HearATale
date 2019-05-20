@@ -43,6 +43,7 @@ Alternatively, you can connect via an FTP client. Set the host as hearatale.com 
 
 * **Cal Stephens** - *Initial work* - [calda](https://github.com/calda)
 * **Kyle Xiao** - *Maintenance + Migration* - [kylepxiao](https://github.com/kylepxiao)
+* **Sam Billingham** - *Maintenance + Migration* - [sambillingham](https://github.com/sambillingham)
 
 ## License
 
