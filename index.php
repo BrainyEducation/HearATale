@@ -80,6 +80,7 @@ require_once ('functions2.php');
 			<h5 style="color: red"> Alert:  We recently upgraded our hosting plan and some files were lost in ‘migration’.  We will restore the missing files as soon as possible.</h5>
 			<fieldset><legend>
 					<a href='children.php'><img style='height:100px' class="gingerbread-animation" src='images/section_icons/Children.png'>Children's Section</a>
+					<a href='http://hearatale.org:8082'><img style ='height:100px' src='images/Brainy-Words-2000.png' align="right"></a>
 					<a href='alphabet.php'><img style ='height:100px' src='images/alphabet_letters1.png' align="right"></a>
 					<a href='piglatin.php'><img style ='height:100px' src='images/Secret_Stuff_Pig_Latin_logo.png' align="right"></a>
 			</legend></fieldset>

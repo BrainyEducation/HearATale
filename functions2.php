@@ -231,7 +231,7 @@ function aboutHeader($currentPage){
 	echo "<table class='header' style='width:100%;'>";
 		echo "<tr align='center' valign='top'>";
 			echo ($currentPage == "Introduction" ? "<td class='selected'>" : "<td>");
-				echo "<a href=ABOUT_intro.php><img src='images/section_icons/Children.png'><br><b>Introduction</b></a></td>";
+				echo "<a href=ABOUT_LANDING.php><img src='images/section_icons/Children.png'><br><b>Introduction</b></a></td>";
 			echo ($currentPage == "To Parents" ? "<td class='selected'>" : "<td>");
 				echo "<a href=ABOUT_parents.php><img src='images/about/parents.png'><br><b>To Parents</b></a></td>";
 			echo ($currentPage == "To Teachers" ? "<td class='selected'>" : "<td>");
