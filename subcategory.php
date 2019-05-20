@@ -36,7 +36,23 @@ if(sizeof($categoryExploded) === 3){
 		else echo "<title>Not found - Hear a Tale</title>";
 		include ($_SERVER['DOCUMENT_ROOT'] . '/globalHeader.php');
 		?>
+		<script>
+			let player = new Audio()
 
+			function playAudio(audio,audioFinished) {
+				const fileLocation = '/audio/' + audio;
+				if (player.src === fileLocation) return player.pause() // pause if click same 
+				player.pause();
+				player.currentTime = 0.0;
+				player.src = fileLocation;
+				player.play()
+				player.onended = () => {
+					setTimeout( () => new Audio('/audio/' + audioFinished).play(), 2000 )
+				};
+			}
+
+			
+		</script>
 	</head>
 
 	<body>
@@ -81,6 +97,17 @@ if(sizeof($categoryExploded) === 3){
 				echo "<div style='width:600px; height: 135px; display: table-cell; vertical-align: middle;'>";
 				echo "<h3 style='margin-bottom:0px; padding-top:0px; margin-top:-10px; float:left;'>" . $work['Title'] . "</p></h3>";
 				if($work['FileLocation'] != "") echo "</a>";
+
+				if($work['Audio'] != "") {
+					echo "<div style=\"padding-bottom: 10px; padding-left:5px; width:100%; float:left; \">";
+					$audio_files = explode(',', $work['Audio']);
+					$audio_finished_file = $work['AudioFinished'];
+					foreach($audio_files as $file){
+						echo "<span style=\"margin: 5px; cursor: pointer;\" onclick=\"playAudio('". $file ."','".$audio_finished_file."') \"><img src='/images/star-blank.png' height='25px' width='25px'></span>";
+					}
+					echo "</div>";
+				} 
+
 				if($work["Length"] != "" || $work["Target"] != ""){
 					echo "<div style='clear:both; padding-left: 5px; display: table-cell;'>";
 					if($work["Target"] != ""){

@@ -57,7 +57,7 @@ require_once ($_SERVER['DOCUMENT_ROOT'] . '/functions2.php');
 			</table>
 			<p></p>          
 			
-            <h1 style="padding-top:10px; margin-top:-10px; margin-bottom:-10px; margin-right: 5px; float:left;">Home Experiences - 50 Stories</h1>
+            <h1 style="padding-top:10px; margin-top:-10px; margin-bottom:-10px; margin-right: 5px; float:left;">Can You Do It? - Story Experiences</h1>
             <h5 style="display:inline-block; padding-top:10px;">Click image to download</h5>
             <div style="clear: both;"></div>
             <p></p>
@@ -73,6 +73,16 @@ require_once ($_SERVER['DOCUMENT_ROOT'] . '/functions2.php');
             <p></p>
             <a style="margin:40px;" href="images/Questions%20for%2010%20stories.pdf" target="_blank">
                 <img style="max-width:162px; margin-bottom: 10px; border:1px solid #d9d9d9" src="images/Questions10.png">
+            </a>
+            <p></p>
+            <div style="clear: both;"></div>
+
+            <h1 style="padding-top:10px; margin-top:-10px; margin-bottom:-10px; margin-right: 5px; float:left;">Think and Do! - Rhyme Experience</h1>
+            <h5 style="display:inline-block; padding-top:10px;">Click image to download</h5>
+            <div style="clear: both;"></div>
+            <p></p>
+            <a style="margin:40px;" href="images/Think%20and%20Do.pdf" target="_blank">
+                <img style="max-width:162px; margin-bottom: 10px; border:1px solid #d9d9d9" width="105px" height="162px" src="images/think-do-image.png">
             </a>
             <p></p>
             <div style="clear: both;"></div>
