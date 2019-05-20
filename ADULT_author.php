@@ -27,7 +27,6 @@ $works = getAllByAuthorOutOfPool_absolute($author, getAllInCategory("Students an
 		include ($_SERVER['DOCUMENT_ROOT'] . '/globalBody.php');
 		?>
 
-
 		<div class="span9" style="margin-left:5px; margin-right:5px;">
 			<div style="clear: both;"></div>
 			<?php

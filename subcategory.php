@@ -83,6 +83,22 @@ if(sizeof($categoryExploded) === 3){
 					if(file_exists($thumbnailCat)) echo "<img style='padding-right:5px;' src= ". $thumbnailCat . ">";
 				?>
 			</i></strong></h1></br>
+					
+
+			<?php
+			// Move Stories by Appeal text from seperate page
+			if($category == "Children/Stories/Classic Stories by Length") { ?>
+			<div style="margin-bottom: 20px;">
+				<a href="subcategory_appeal.php#general"><h3><img style="width:30px" src="images/target_audience/B.png"> General Appeal</h2></a>
+					Stroies marked with a green dot do not emphasize either gender. They may appeal equally to both boys and girls.
+				<a href="subcategory_appeal.php#animal"><h3><img style="width:30px" src="images/target_audience/A.png"> Animals and other non-human Protagonists</h2></a>
+					Stories marked with a gray dot feature animals and other non-human protagonists. They will likely appeal equally to both boys and girls.
+				<a href="subcategory_appeal.php#female"><h3><img style="width:30px" src="images/target_audience/F.png"> Female Protagonist</h2></a>
+					Stories marked with a pink dot emphasize female protagonists. They may appeal more to girls.
+				<a href="subcategory_appeal.php#male"><h3><img style="width:30px" src="images/target_audience/M.png"> Male Protagonist</h2></a>
+					Stories marked with a blue dot emphasize male protagonists. They may appeal more to boys.
+			</div>
+			<?php } ?>
 
 			<?php
 
@@ -121,7 +137,7 @@ if(sizeof($categoryExploded) === 3){
                                         if(strpos($categoryName, "Classic Stories") !== false){
                                         $textFileName = "work_text/" . $work['Title'] . ".txt";
                                         if($work['Experiences'] !== ""){
-                                           echo "<a href='HomeExperiences.php?url=" . $work['Experiences'] . "'>?</a>";}}
+                                           echo "<a href='HomeExperiences.php?url=" . $work['Experiences'] . "'></a>";}}
                                        
 					echo "</div>";
                                         
