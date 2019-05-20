@@ -13,7 +13,40 @@ require_once ('functions2.php');
 		<?php
 		include ($_SERVER['DOCUMENT_ROOT'] . '/globalHeader.php');
 		?>
-
+		<style>
+			.gingerbread-animation {
+				-webkit-animation: pulsate-fwd 1.5s ease-in-out infinite both;
+	        	animation: pulsate-fwd 1.5s ease-in-out infinite both;
+			}
+			@-webkit-keyframes pulsate-fwd {
+				0% {
+					-webkit-transform: scale(1);
+							transform: scale(1);
+				}
+				50% {
+					-webkit-transform: scale(1.07);
+							transform: scale(1.07);
+				}
+				100% {
+					-webkit-transform: scale(1);
+							transform: scale(1);
+				}
+				}
+				@keyframes pulsate-fwd {
+				0% {
+					-webkit-transform: scale(1);
+							transform: scale(1);
+				}
+				50% {
+					-webkit-transform: scale(1.07);
+							transform: scale(1.07);
+				}
+				100% {
+					-webkit-transform: scale(1);
+							transform: scale(1);
+				}
+			}
+		</style>
 	</head>
 
 	<body>
@@ -46,7 +79,7 @@ require_once ('functions2.php');
 			<?php } ?>
 			<h5 style="color: red"> Alert:  We recently upgraded our hosting plan and some files were lost in ‘migration’.  We will restore the missing files as soon as possible.</h5>
 			<fieldset><legend>
-					<a href='children.php'><img style='height:100px' src='images/section_icons/Children.png'>Children's Section</a>
+					<a href='children.php'><img style='height:100px' class="gingerbread-animation" src='images/section_icons/Children.png'>Children's Section</a>
 					<a href='alphabet.php'><img style ='height:100px' src='images/alphabet_letters1.png' align="right"></a>
 					<a href='piglatin.php'><img style ='height:100px' src='images/Secret_Stuff_Pig_Latin_logo.png' align="right"></a>
 			</legend></fieldset>

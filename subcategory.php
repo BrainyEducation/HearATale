@@ -4,7 +4,8 @@ require_once ('functions2.php');
 $category = $_GET['cat'];
 
 if($category == "Children") header( 'Location: children.php' ) ;
-if($category == "Children/Stories/Classic Stories by Appeal") header('Location: subcategory_appeal.php');
+
+// if($category == "Children/Stories/Classic Stories by Appeal") header('Location: subcategory_appeal.php');
 
 $data = getAllInCategory($category);
 
