@@ -182,7 +182,11 @@ require_once ($_SERVER['DOCUMENT_ROOT'] . '/functions2.php');
 			<p><a href="http://www.augustamagazine.com/Augusta-Magazine/June-July-2014-1/Fairy-Tale-Lessons/">Fairy Tale Lessons</a> <b>(</b><i>Augusta Magazine</i>, July 2014<b>)</b></p>
 			<h3>Other Resources</h3>
 			<p><a href="images/Research%20Data%20Kindergarten.pdf">Data on PPVT and Reading Scores</a></p>
-			<p><a href="http://hearatale.com/podcasting/Jennyono.mp4">Video of Kindergarten Class Using Rhymes and Stories</a></p>
+			<p>Videos of Kindergarten Class Using Rhymes and Stories</p>
+            <p style="padding-left: 15px"><a href="http://hearatale.com/podcasting/kindergarten005.mp4">Kindergarten Video 1</a></p>
+            <p style="padding-left: 15px"><a href="http://hearatale.com/podcasting/kindergarten006.mp4">Kindergarten Video 2</a></p>
+            <p style="padding-left: 15px"><a href="http://hearatale.com/podcasting/kindergarten007.mp4">Kindergarten Video 3</a></p>
+
 
 		<?php
 		include ($_SERVER['DOCUMENT_ROOT'] . '/globalFooter.php');
