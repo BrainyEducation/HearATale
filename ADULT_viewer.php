@@ -92,10 +92,10 @@ $isAudio = substr($url, -4) === ".mp3";
 		?>
 
 		<!-- flowplayer imports -->
-		<link rel="stylesheet" type="text/css" href="//releases.flowplayer.org/5.4.6/skin/minimalist.css">
+		<!-- <link rel="stylesheet" type="text/css" href="//releases.flowplayer.org/5.4.6/skin/minimalist.css"> -->
+        <link rel="stylesheet" type="text/css" href="//releases.flowplayer.org/7.0.2/skin/skin.css">
 		<style>
 			.flowplayer {
-				width: 80%;
 				background-color: #222;
 				background-size: cover;
 				max-width: 800px;
@@ -287,14 +287,14 @@ $isAudio = substr($url, -4) === ".mp3";
                     $textFile = fopen($textFileName, "r") or die("Unable to read work text file.");
                     $text = fread($textFile, filesize($textFileName));
                     $text = str_replace("\n\n", "</p><p>", $text);
-                    $text = str_replace("\n", '</p><p style="margin-top:-10px;">', $text);
+                    $text = str_replace("\n", ' ', $text);
                     //also replacing this weird other line-break character that showed up a few times
                     $text = str_replace("  ", "</p><p>", $text);
                     $text = str_replace(" ", '</p><p style="margin-top:-10px;">', $text);
                     if (strlen($text) < 2500){
-                        echo "<div class='workText'>";
+                        echo "<div class='workText' style='max-width: 460px;'>";
                     } else {
-                        echo "<div class='workText'>";
+                        echo "<div class='workText' style='max-width: 460px;' >";
                     }
                     echo $text . "</div>";
                     fclose($textFile);

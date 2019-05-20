@@ -121,7 +121,7 @@ if($url != ""){
 
 				api.bind("finish", function() {
 					<?php if($nextVideo != NULL){ ?>
-					   window.location.href = "video.php?url=<?php echo $nextVideo['FileLocation'];?>&cat=<?php echo $sourceCategory;?>"
+					   window.location.href = "writtenvideo.php?url=<?php echo $nextVideo['FileLocation'];?>&cat=<?php echo $sourceCategory;?>&youtubeurl=<?php echo $nextVideo['URL'];?>"
 					<?php } ?>
 
 				});
