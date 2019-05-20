@@ -74,13 +74,14 @@ $works = getAllByAuthorOutOfPool_absolute($author, getAllInCategory("Students an
 						$types['Books'] = array();
 						$types['Nonfiction'] = array();
 						$types['Plays'] = array();
+						$types['Interviews'] = array();
 
 						foreach($works as $work){
 							$type = explode("/", $work['Category'])[2];
                             array_push($types[$type], $work);
 						}
 
-						$typeNames = array('Poetry', "Stories", "Nonfiction", "Books", "Plays");
+						$typeNames = array('Poetry', "Stories", "Nonfiction", "Books", "Plays", "Interviews");
 						foreach($typeNames as $type){
 							$typeWorks = $types[$type];
 							if(count($typeWorks) != 0){
