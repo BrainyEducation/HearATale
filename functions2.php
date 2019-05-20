@@ -29,6 +29,9 @@ function getDataFromSheet() {
 		$work['Description'] = $col[11];
 		$work['Experiences'] = $col[12];
 		$work['URL'] = $col[14];
+		$work['Unavailable'] = $col[15];
+		$work['Audio'] = $col[16];
+		$work['AudioFinished'] = $col[17];
 		$category = "";
 		for($x = 2; $x <= 4; $x++){
 			if($col[$x] != ""){

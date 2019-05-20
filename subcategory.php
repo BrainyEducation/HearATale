@@ -95,7 +95,9 @@ if(sizeof($categoryExploded) === 3){
 				echo '<img style="height: 135px; width: auto; padding-right: 5px;" src="Thumbnails/' . str_replace("\\", "/", $work['ThumbnailImage']) . '">';
 				echo "</div>";
 				echo "<div style='width:600px; height: 135px; display: table-cell; vertical-align: middle;'>";
-				echo "<h3 style='margin-bottom:0px; padding-top:0px; margin-top:-10px; float:left;'>" . $work['Title'] . "</p></h3>";
+					if($work['Unavailable'] === "x") echo "<span style=\"color:red; width: 100%; float: left; margin-bottom: 10px; \">Currently Unavailable</span>";
+				echo "<h3 style='margin-bottom:0px; padding-left:10px; line-height:1; padding-top:0px; margin-top:0; float:left;'>" . $work['Title'] . "</p></h3>";
+				
 				if($work['FileLocation'] != "") echo "</a>";
 
 				if($work['Audio'] != "") {
